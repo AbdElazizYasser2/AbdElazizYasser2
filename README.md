@@ -32,6 +32,9 @@ I'm a .NET Developer specializing in Backend Development 🖥️. I am passionat
 
 ### 🔨 Languages and Tools:-
 
+<a href="" target="_blank">
+  <img align="left" src="https://e7.pngegg.com/pngimages/410/100/png-clipart-web-development-html-responsive-web-design-logo-javascript-html-angle-web-design-thumbnail.png" alt="HTML" height="42px"/>
+</a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" alt="C#" height="42px"/>
 </a>
