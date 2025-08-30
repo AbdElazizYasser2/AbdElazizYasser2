@@ -34,7 +34,7 @@ I'm a .NET Developer specializing in Backend Development 🖥️. I am passionat
   <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPO8cA8sAHtXEDYFeK_prPOvLgJk10fgc8_g&s" alt="C#" height="42px"/>
 </a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-  <img align="left" src="https://img.icons8.com/ios/452/c-plus-plus-logo.png" alt="C++" height="42px"/>
+  <img align="left" src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/C-2.png" alt="C++" height="42px"/>
 </a>
 <a href="https://www.sqlservercentral.com/" target="_blank">
   <img align="left" src="https://img.icons8.com/ios/452/sql-server.png" alt="SQL Server" height="42px"/>
