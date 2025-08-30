@@ -7,7 +7,9 @@
 
 I'm a .NET Developer specializing in Backend Development 🖥️. I am passionate about building scalable, efficient, and secure web applications using .NET Core, C#, and ASP.NET. I also love learning new technologies and enhancing my skills to solve complex challenges.
 
-<br /> <br /> <img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZXhlZ2UzOWVmdW5vY3hxc2M4bDNsaWt4aTdsMWt3eWVqMmJjOGIwdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif" width="360px"/>
+<br /> <br /> <img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZXhlZ2UzOWVmdW5vY3hxc2M4bDNsaWt4aTdsMWt3eWVqMmJjOGIwdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif" width="360px"/> 
+<br>
+
 ### 🧐 More About Me:-
 🔭   I’m currently working on building powerful backend APIs using .NET Core and C# for scalable applications.
 
@@ -52,7 +54,7 @@ I'm a .NET Developer specializing in Backend Development 🖥️. I am passionat
   <img align="left" src="https://s2kdesign.com/wp-content/uploads/2016/11/aspnetcore-e1479370203357-417x300.png" alt="ASP .NET Core" height="42px"/>
 </a>
 <a href="https://azure.microsoft.com/" target="_blank">
-  <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR74gam8kg_Mb10Df2vjG_oGeSLEjhCPoWWLw&s" alt="Azure" height="42px"/>
+  <img align="left" src="https://www.northware.mx/wp-content/uploads/2022/09/northware-microsoft-azure-logo.png" alt="Azure" height="42px"/>
 </a>
 <a href="https://git-scm.com/" target="_blank">
   <img align="left" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="42px"/>
