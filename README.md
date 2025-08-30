@@ -36,6 +36,9 @@ I'm a .NET Developer specializing in Backend Development 🖥️. I am passionat
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="42px"/>
 </a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" height="42px"/>
+</a>
 <a href="https://www.sqlservercentral.com/" target="_blank">
   <img align="left" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" alt="SQL Server" height="42px"/>
 </a>
