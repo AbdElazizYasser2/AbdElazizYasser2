@@ -52,7 +52,7 @@ I'm a .NET Developer specializing in Backend Development 🖥️. I am passionat
   <img align="left" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="42px"/>
 </a>
 <a href="https://www.docker.com/" target="_blank">
-  <img align="left" src="https://img.icons8.com/ios/452/docker.png" alt="Docker" height="42px"/>
+  <img align="left" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker" height="42px"/>
 </a>
 
 <br>
