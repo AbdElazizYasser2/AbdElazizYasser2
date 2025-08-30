@@ -9,7 +9,6 @@ I'm a .NET Developer specializing in Backend Development 🖥️. I am passionat
 
 <br /> <br /> <img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZXhlZ2UzOWVmdW5vY3hxc2M4bDNsaWt4aTdsMWt3eWVqMmJjOGIwdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif" width="360px"/>
 ## 🧐 More About Me:
-
 🔭   I’m currently working on building powerful backend APIs using .NET Core and C# for scalable applications.
 
 🌱   I’m currently learning how to integrate Cloud Services (Azure) and improve my DevOps skills.
