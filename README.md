@@ -49,7 +49,7 @@ I'm a .NET Developer specializing in Backend Development 🖥️. I am passionat
   <img align="left" src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png" alt="PostgreSQL" height="42px"/>
 </a>
 <a href="https://git-scm.com/" target="_blank">
-  <img align="left" src="https://img.icons8.com/ios/452/git.png" alt="Git" height="42px"/>
+  <img align="left" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="42px"/>
 </a>
 <a href="https://www.docker.com/" target="_blank">
   <img align="left" src="https://img.icons8.com/ios/452/docker.png" alt="Docker" height="42px"/>
