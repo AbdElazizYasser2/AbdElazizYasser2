@@ -7,7 +7,7 @@
 
 I'm a .NET Developer specializing in Backend Development 🖥️. I am passionate about building scalable, efficient, and secure web applications using .NET Core, C#, and ASP.NET. I also love learning new technologies and enhancing my skills to solve complex challenges.
 
-<br /> <br /> <img align="right" alt="GIF" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4bltNxyXCmTTjBUSrTkHyy5_10dIpwnkvDw&s" width="360px"/>
+<br /> <br /> <img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZXhlZ2UzOWVmdW5vY3hxc2M4bDNsaWt4aTdsMWt3eWVqMmJjOGIwdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif" width="360px"/>
 ## 🧐 More About Me:
 
 🔭   I’m currently working on building powerful backend APIs using .NET Core and C# for scalable applications.
