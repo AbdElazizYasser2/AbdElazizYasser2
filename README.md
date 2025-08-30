@@ -42,6 +42,9 @@ I'm a .NET Developer specializing in Backend Development 🖥️. I am passionat
 <a href="https://www.sqlservercentral.com/" target="_blank">
   <img align="left" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" alt="SQL Server" height="42px"/>
 </a>
+<a href="https://www.postgresql.org/" target="_blank">
+  <img align="left" src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png" alt="PostgreSQL" height="42px"/>
+</a>
 <a href="https://www.sqlservercentral.com/" target="_blank">
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt=".net core" height="42px"/>
 </a>
@@ -50,9 +53,6 @@ I'm a .NET Developer specializing in Backend Development 🖥️. I am passionat
 </a>
 <a href="https://azure.microsoft.com/" target="_blank">
   <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR74gam8kg_Mb10Df2vjG_oGeSLEjhCPoWWLw&s" alt="Azure" height="42px"/>
-</a>
-<a href="https://www.postgresql.org/" target="_blank">
-  <img align="left" src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png" alt="PostgreSQL" height="42px"/>
 </a>
 <a href="https://git-scm.com/" target="_blank">
   <img align="left" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="42px"/>
