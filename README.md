@@ -51,7 +51,7 @@ I'm a .NET Developer specializing in Backend Development 🖥️. I am passionat
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt=".net core" height="42px"/>
 </a>
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">
-  <img align="left" src="https://e7.pngegg.com/pngimages/673/239/png-clipart-entity-framework-core-asp-net-core-net-framework-microsoft-blue-text-thumbnail.png" alt="ASP .NET Core" height="42px"/>
+  <img align="left" src="https://www.mvc-controls.com/images/Courses/acore.png" alt="ASP .NET Core" height="42px"/>
 </a>
 <a href="https://azure.microsoft.com/" target="_blank">
   <img align="left" src="https://www.northware.mx/wp-content/uploads/2022/09/northware-microsoft-azure-logo.png" alt="Azure" height="42px"/>
