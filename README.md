@@ -4,7 +4,7 @@
 <a href='https://twitter.com/abdulaziz_yasser'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 <a href='https://www.kaggle.com/abdulaziz-yasser'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
-I am a .NET Developer specializing in Backend Development 🖥️. I am passionate about building scalable, efficient, and secure web applications using .NET Core, C#, and ASP.NET. I also love learning new technologies and enhancing my skills to solve complex challenges.
+I'm a .NET Developer specializing in Backend Development 🖥️. I am passionate about building scalable, efficient, and secure web applications using .NET Core, C#, and ASP.NET. I also love learning new technologies and enhancing my skills to solve complex challenges.
 
 <br /> <br /> <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 ## 🧐 More About Me:
@@ -38,10 +38,5 @@ I am a .NET Developer specializing in Backend Development 🖥️. I am passiona
 <a href="https://www.docker.com/" target="_blank"> <img align="left" alt="Docker" height='42px' src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg"/> </a>
 
 <br>
-## 📊 Github Stats
-<a href='https://github.com/abdulaziz-yasser/github-stats-transparent'>
-
-
-
 
 </a>
