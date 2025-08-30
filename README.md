@@ -30,13 +30,30 @@ I'm a .NET Developer specializing in Backend Development 🖥️. I am passionat
 
 ## 🔨 Languages and Tools
 
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/dotnet/dotnet.svg" alt="dotnet" height="42px"/> </a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/csharp/csharp.svg" alt="csharp" height="42px"/> </a>
-<a href="https://www.sqlservercentral.com/" target="_blank"><img align="left" alt="SQL Server" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/sql/sql.svg"></a>
-<a href="https://azure.microsoft.com/" target="_blank"> <img align="left" alt="Azure" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/azure/azure.svg"> </a>
-<a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="PostgreSQL" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/postgresql/postgresql.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" height='42px' src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git/git.svg"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img align="left" alt="Docker" height='42px' src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg"/> </a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <img align="left" src="https://img.icons8.com/ios/452/c-sharp-logo.png" alt="C#" height="42px"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+  <img align="left" src="https://img.icons8.com/ios/452/c-plus-plus-logo.png" alt="C++" height="42px"/>
+</a>
+<a href="https://www.sqlservercentral.com/" target="_blank">
+  <img align="left" src="https://img.icons8.com/ios/452/sql-server.png" alt="SQL Server" height="42px"/>
+</a>
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">
+  <img align="left" src="https://img.icons8.com/ios/452/asp-net.png" alt="ASP .NET Core" height="42px"/>
+</a>
+<a href="https://azure.microsoft.com/" target="_blank">
+  <img align="left" src="https://img.icons8.com/ios/452/azure.png" alt="Azure" height="42px"/>
+</a>
+<a href="https://www.postgresql.org/" target="_blank">
+  <img align="left" src="https://img.icons8.com/ios/452/postgresql.png" alt="PostgreSQL" height="42px"/>
+</a>
+<a href="https://git-scm.com/" target="_blank">
+  <img align="left" src="https://img.icons8.com/ios/452/git.png" alt="Git" height="42px"/>
+</a>
+<a href="https://www.docker.com/" target="_blank">
+  <img align="left" src="https://img.icons8.com/ios/452/docker.png" alt="Docker" height="42px"/>
+</a>
 
 <br>
 
