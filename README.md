@@ -46,7 +46,7 @@ I'm a .NET Developer specializing in Backend Development 🖥️. I am passionat
   <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR74gam8kg_Mb10Df2vjG_oGeSLEjhCPoWWLw&s" alt="Azure" height="42px"/>
 </a>
 <a href="https://www.postgresql.org/" target="_blank">
-  <img align="left" src="https://img.icons8.com/ios/452/postgresql.png" alt="PostgreSQL" height="42px"/>
+  <img align="left" src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png" alt="PostgreSQL" height="42px"/>
 </a>
 <a href="https://git-scm.com/" target="_blank">
   <img align="left" src="https://img.icons8.com/ios/452/git.png" alt="Git" height="42px"/>
