@@ -3,6 +3,7 @@
 <a href='https://www.linkedin.com/in/abdelaziz-yasser/'><img align='left' alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" height='18px'/></a>
 
 <a href='https://abdelazizyasser.dev@gmail.com'><img align='left' alt="twitter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height='18px'/></a>
+<br>
 
 I'm a .NET Developer specializing in Backend Development 🖥️. I am passionate about building scalable, efficient, and secure web applications using .NET Core, C#, and ASP.NET. I also love learning new technologies and enhancing my skills to solve complex challenges.
 
