@@ -1,8 +1,8 @@
 ## Hey 👋, I'm Abdelaziz Yasser!
 
 <a href='https://www.linkedin.com/in/abdelaziz-yasser/'><img align='left' alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" height='18px'/></a>
-<a href='https://twitter.com/abdulaziz_yasser'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/abdulaziz-yasser'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+
+<a href='https://abdelazizyasser.dev@gmail.com'><img align='left' alt="twitter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height='18px'/></a>
 
 I'm a .NET Developer specializing in Backend Development 🖥️. I am passionate about building scalable, efficient, and secure web applications using .NET Core, C#, and ASP.NET. I also love learning new technologies and enhancing my skills to solve complex challenges.
 
