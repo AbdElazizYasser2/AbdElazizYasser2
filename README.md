@@ -27,7 +27,8 @@ I'm a .NET Developer specializing in Backend Development 🖥️. I am passionat
 📚   When I am free, I like to read about new technologies and backend frameworks.
 
 <br>
-## 🔨 Languages and Tools:
+
+## 🔨 Languages and Tools
 
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/dotnet/dotnet.svg" alt="dotnet" height="42px"/> </a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/csharp/csharp.svg" alt="csharp" height="42px"/> </a>
