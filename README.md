@@ -63,7 +63,7 @@ I'm a .NET Developer specializing in Backend Development 🖥️. I am passionat
   <img align="left" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker" height="42px"/>
 </a>
 <a href="https://www.docker.com/" target="_blank">
-  <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-TB9d5YXwtKhv4NWbpeTBVveYvcxu9gMJng&s" alt="postman" height="42px"/>
+  <img align="left" src="https://w7.pngwing.com/pngs/877/217/png-transparent-postman-logo-tech-companies.png" alt="postman" height="42px"/>
 </a>
 <br>
 
