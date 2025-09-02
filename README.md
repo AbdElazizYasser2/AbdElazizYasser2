@@ -38,7 +38,7 @@ I'm a .NET Developer specializing in Backend Development 🖥️. I am passionat
 ### 🔨 Languages and Tools:-
 
 
-  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" alt="C#" height="42px"/>
+  <img align="left" src="https://www.php.net/images/logos/new-php-logo.svg" alt="php" height="42px"/>
 
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="42px"/>
 
