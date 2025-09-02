@@ -52,7 +52,7 @@ I'm a Laravel Developer specializing in Backend Development 🖥️. I am passio
   <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="PostgreSQL" height="42px"/>
 </a>
 <a href="https://www.sqlservercentral.com/" target="_blank">
-  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt=".net core" height="42px"/>
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" height="42px"/>
 </a>
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">
   <img align="left" src="https://www.mvc-controls.com/images/Courses/acore.png" alt="ASP .NET Core" height="42px"/>
