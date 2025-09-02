@@ -48,7 +48,7 @@ I'm a .NET Developer specializing in Backend Development 🖥️. I am passionat
 
   <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="PostgreSQL" height="42px"/>
 
-  <img align="left" src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Symbol.png" alt=".net" height="42px"/>
+  <img align="left" src="https://e7.pngegg.com/pngimages/407/190/png-clipart-laravel-new-logo-tech-companies-thumbnail.png" alt="Laravel" height="42px"/>
 
   <img align="left" src="https://mecdata.it/wp-content/uploads/2020/01/pngwave_asp_net_mvc.png" alt="asp .net" height="42px"/>
   
