@@ -55,7 +55,7 @@ I'm a Laravel Developer specializing in Backend Development 🖥️. I am passio
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" height="42px"/>
 </a>
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">
-  <img align="left" src="https://www.mvc-controls.com/images/Courses/acore.png" alt="ASP .NET Core" height="42px"/>
+  <img align="left" src="https://www.iocod.com/section/stack/Livewire.webp" alt="Livewire" height="42px"/>
 </a>
 <a href="https://azure.microsoft.com/" target="_blank">
   <img align="left" src="https://www.northware.mx/wp-content/uploads/2022/09/northware-microsoft-azure-logo.png" alt="Azure" height="42px"/>
