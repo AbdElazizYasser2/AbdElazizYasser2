@@ -5,23 +5,23 @@
 <a href='https://abdelazizyasser.dev@gmail.com'><img align='left' alt="twitter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height='18px'/></a>
 <br>
 
-I'm a .NET Developer specializing in Backend Development 🖥️. I am passionate about building scalable, efficient, and secure web applications using C#, ASP.NET Core, and SQL Server. I also love learning new technologies and enhancing my skills to solve complex challenges.
+I'm a Laravel Developer specializing in Backend Development 🖥️. I am passionate about building scalable, efficient, and secure web applications using PHP, Laravel, and MySQL. I also love learning new technologies and enhancing my skills to solve complex challenges.
 
 <br /> <br /> <img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZXhlZ2UzOWVmdW5vY3hxc2M4bDNsaWt4aTdsMWt3eWVqMmJjOGIwdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif" width="360px"/> 
 <br><br>
 
 ### 🧐 More About Me:
 
-🔭 I’m currently working on building powerful backend APIs using ASP.NET Core and C# for scalable applications.
+🔭 I’m currently working on building powerful backend APIs using Laravel and PHP for scalable applications.
 .
 
-🌱 I’m currently learning how to integrate Cloud Services (like Azure or AWS) and improve my DevOps skills using CI/CD pipelines and Docker.
+🌱 I’m currently learning how to integrate Cloud Services (like AWS or DigitalOcean) and improve my DevOps skills using CI/CD pipelines and Docker.
 .
 
 👨🏻‍💻 Most of my projects are available on GitHub.
 .
 
-💬 Ask me about Backend Development with .NET, C#, SQL Server, or anything else!
+💬 Ask me about Backend Development with Laravel, PHP, MySQL, or anything else!
 .
 
 📫 Feel free to ping me on LinkedIn.
@@ -30,7 +30,7 @@ I'm a .NET Developer specializing in Backend Development 🖥️. I am passionat
 📝 Checkout my resume.
 .
 
-📚 When I’m free, I like to read about new technologies and backend frameworks in the .NET ecosystem.
+📚 When I’m free, I like to read about new technologies and backend frameworks in the Laravel/PHP ecosystem.
 .
 
 <br>
