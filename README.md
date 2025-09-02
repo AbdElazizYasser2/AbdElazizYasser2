@@ -1,4 +1,4 @@
-<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/62d15860-97e8-4d97-b303-1bc76e5acccb" /><img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/2c3c0a0f-8d24-4b64-b382-9dc396b09c87" />## Hey 👋, I'm Abdelaziz Yasser!
+## Hey 👋, I'm Abdelaziz Yasser!
 
 <a href='https://www.linkedin.com/in/abdelaziz-yasser/'><img align='left' alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" height='18px'/></a>
 
