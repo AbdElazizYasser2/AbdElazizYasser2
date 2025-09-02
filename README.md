@@ -5,35 +5,39 @@
 <a href='https://abdelazizyasser.dev@gmail.com'><img align='left' alt="twitter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height='18px'/></a>
 <br>
 
-I'm a .NET Developer specializing in Backend Development 🖥️. I am passionate about building scalable, efficient, and secure web applications using .NET Core, C#, and ASP.NET. I also love learning new technologies and enhancing my skills to solve complex challenges.
+I'm a Laravel Developer specializing in Backend Development 🖥️. I am passionate about building scalable, efficient, and secure web applications using Laravel, PHP, and MySQL. I also love learning new technologies and enhancing my skills to solve complex challenges.
 
 <br /> <br /> <img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZXhlZ2UzOWVmdW5vY3hxc2M4bDNsaWt4aTdsMWt3eWVqMmJjOGIwdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif" width="360px"/> 
 <br><br>
 
 ### 🧐 More About Me:-
-🔭   I’m currently working on building powerful backend APIs using .NET Core and C# for scalable applications.
-
-🌱   I’m currently learning how to integrate Cloud Services (Azure) and improve my DevOps skills.
-
-👨🏻‍💻   Most of my projects are available on Github
+🔭 I’m currently working on building powerful backend APIs using Laravel and PHP for scalable applications.
 .
 
-💬   Ask me about Backend Development with .NET, C#, ASP.NET, or anything else!
-
-📫   Feel free to ping me on LinkedIn
+🌱 I’m currently learning how to integrate Cloud Services (AWS or DigitalOcean) and improve my DevOps skills.
 .
 
-📝   Checkout my resume
+👨🏻‍💻 Most of my projects are available on Github.
 .
 
-📚   When I am free, I like to read about new technologies and backend frameworks.
+💬 Ask me about Backend Development with Laravel, PHP, MySQL, or anything else!
+.
+
+📫 Feel free to ping me on LinkedIn.
+.
+
+📝 Checkout my resume.
+.
+
+📚 When I am free, I like to read about new technologies and backend frameworks.
+.
 
 <br>
 
 ### 🔨 Languages and Tools:-
 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" alt="C#" height="42px"/>
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="php" height="42px"/>
 </a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="42px"/>
