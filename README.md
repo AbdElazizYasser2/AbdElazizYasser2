@@ -39,36 +39,24 @@ I'm a Laravel Developer specializing in Backend Development 🖥️. I am passio
 
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="php" height="42px"/>
 
-<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="42px"/>
-</a>
-<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" height="42px"/>
-</a>
-<a href="https://www.sqlservercentral.com/" target="_blank">
+
   <img align="left" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="SQL Server" height="42px"/>
-</a>
-<a href="https://www.postgresql.org/" target="_blank">
+
   <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="PostgreSQL" height="42px"/>
-</a>
-<a href="https://www.sqlservercentral.com/" target="_blank">
+
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" height="42px"/>
-</a>
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">
+
   <img align="left" src="https://www.iocod.com/section/stack/Livewire.webp" alt="Livewire" height="42px"/>
-</a>
-<a href="https://azure.microsoft.com/" target="_blank">
-  <img align="left" src="https://www.northware.mx/wp-content/uploads/2022/09/northware-microsoft-azure-logo.png" alt="Azure" height="42px"/>
-</a>
-<a href="https://git-scm.com/" target="_blank">
+
   <img align="left" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="42px"/>
-</a>
-<a href="https://www.docker.com/" target="_blank">
+
   <img align="left" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker" height="42px"/>
-</a>
-<a href="https://www.docker.com/" target="_blank">
+
   <img align="left" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="postman" height="42px"/>
-</a>
+
 <br>
 
 </a>
