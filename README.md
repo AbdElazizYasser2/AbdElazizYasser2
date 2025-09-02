@@ -50,7 +50,7 @@ I'm a .NET Developer specializing in Backend Development 🖥️. I am passionat
 
   <img align="left" src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Symbol.png" alt=".net" height="42px"/>
 
-  <img align="left" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaNLu4Lto_N-RXJHwDwCvKIwRt6dk-lyLFfxYafEpbx5c8VwkPqQ0pcmSdaE6pgPiwQaq1aBwHxqEhAUgkkg3RIejISbNZhwqHWHkGwrdw8b5ekbe87_TlnkKuy6yRTot3j4w7dpF8Ma0/s1600/asp.net.png" alt="asp .net" height="42px"/>
+  <img align="left" src="https://mecdata.it/wp-content/uploads/2020/01/pngwave_asp_net_mvc.png" alt="asp .net" height="42px"/>
   
   <img align="left" src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="Azure" height="42px"/>
 
