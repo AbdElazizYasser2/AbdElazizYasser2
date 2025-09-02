@@ -36,9 +36,9 @@ I'm a Laravel Developer specializing in Backend Development 🖥️. I am passio
 
 ### 🔨 Languages and Tools:-
 
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="php" height="42px"/>
-</a>
+
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="42px"/>
 </a>
