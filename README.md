@@ -51,6 +51,8 @@ I'm a Laravel Developer specializing in Backend Development 🖥️. I am passio
   <img align="left" src="https://brandlogos.net/wp-content/uploads/2022/01/laravel-logo-brandlogo.net_.png" alt="Laravel" height="42px"/>
 
   <img align="left" src="https://www.iocod.com/section/stack/Livewire.webp" alt="livewire" height="42px"/>
+  
+  <img align="left" src="https://toppng.com/uploads/preview/wordpress-logo-transparent-background-11662328855b61zeb65vj.png" alt="wordpress" height="42px"/>
 
   <img align="left" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="42px"/>
 
