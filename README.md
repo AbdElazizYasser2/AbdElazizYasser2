@@ -52,7 +52,7 @@ I'm a .NET Developer specializing in Backend Development 🖥️. I am passionat
 
   <img align="left" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaNLu4Lto_N-RXJHwDwCvKIwRt6dk-lyLFfxYafEpbx5c8VwkPqQ0pcmSdaE6pgPiwQaq1aBwHxqEhAUgkkg3RIejISbNZhwqHWHkGwrdw8b5ekbe87_TlnkKuy6yRTot3j4w7dpF8Ma0/s1600/asp.net.png" alt="asp .net" height="42px"/>
   
-  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png" alt="wordpress" height="42px"/>
+  <img align="left" src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="Azure" height="42px"/>
 
   <img align="left" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="42px"/>
 
