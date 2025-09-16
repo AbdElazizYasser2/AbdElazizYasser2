@@ -52,6 +52,7 @@ I'm a Laravel Developer specializing in Backend Development 🖥️. I am passio
 <br>
 <strong>Payment Integration:</strong> Stripe, PayPal, Razorpay Cash on Delivery.
 <br>
+<br>
 
 ### 🔨 Languages and Tools:-
 
