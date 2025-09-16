@@ -36,7 +36,7 @@ I'm a Laravel Developer specializing in Backend Development 🖥️. I am passio
 <br>
 
 ### Tech Stack
-BackEnd: PHP8.3, Laravel 11/12, RESTful APIs, Repository-Service Pattern.
+<strong>BackEnd:</strong> PHP8.3, Laravel 11/12, RESTful APIs, Repository-Service Pattern.
 FrontEnd: HTML5, CSS3, JavaScript(Vanilla), Blade Templates.
 Database: MYSQL, Database Design, Redis.
 Real-Time: Laravel WebSockets, Pusher, Broadcasting, Laravel Echo.
