@@ -37,13 +37,20 @@ I'm a Laravel Developer specializing in Backend Development 🖥️. I am passio
 
 ### Tech Stack
 <strong>BackEnd:</strong> PHP8.3, Laravel 11/12, RESTful APIs, Repository-Service Pattern.
-FrontEnd: HTML5, CSS3, JavaScript(Vanilla), Blade Templates.
-Database: MYSQL, Database Design, Redis.
-Real-Time: Laravel WebSockets, Pusher, Broadcasting, Laravel Echo.
-Authentication & Secutity: Laravel Sanctum, Role & Permission Management.
-Testing & Validation: Laravel Form Request, PHPUnit (Unit Testing), Custom Validation.
-DevOps & Tools: Git, GitHub, Postman, Composer, npm, Linux, Docker.
-Payment Integration: Stripe, PayPal, Razorpay Cash on Delivery.
+<br>
+<strong>FrontEnd:</strong> HTML5, CSS3, JavaScript(Vanilla), Blade Templates.
+<br>
+<strong>Database:</strong>MYSQL, Database Design, Redis.
+<br>
+<strong>Real-Time:</strong> Laravel WebSockets, Pusher, Broadcasting, Laravel Echo.
+<br>
+<strong>Authentication & Secutity:</strong> Laravel Sanctum, Role & Permission Management.
+<br>
+<strong>Testing & Validation:</strong> Laravel Form Request, PHPUnit (Unit Testing), Custom Validation.
+<br>
+<strong>DevOps & Tools:</strong> Git, GitHub, Postman, Composer, npm, Linux, Docker.
+<br>
+<strong>Payment Integration:</strong> Stripe, PayPal, Razorpay Cash on Delivery.
 <br>
 
 ### 🔨 Languages and Tools:-
