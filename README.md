@@ -75,10 +75,8 @@ I'm a Laravel Developer specializing in Backend Development 🖥️. I am passio
   <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="PostgreSQL" height="42px"/>
 
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" alt="Laravel" height="42px"/>
-
-  <img align="left" src="https://www.iocod.com/section/stack/Livewire.webp" alt="livewire" height="42px"/>
   
-  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png" alt="wordpress" height="42px"/>
+  <img align="left" src="https://softwareasli.com/wp-content/uploads/2019/08/ASP.NET_.png" alt="wordpress" height="42px"/>
 
   <img align="left" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="42px"/>
 
