@@ -70,7 +70,7 @@ I'm a Laravel Developer specializing in Backend Development 🖥️. I am passio
 
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" height="42px"/>
 
-  <img align="left" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="SQL Server" height="42px"/>
+  <img align="left" src="https://www.svgrepo.com/download/303229/microsoft-sql-server-logo.svg" alt="SQL Server" height="42px"/>
 
   <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="PostgreSQL" height="42px"/>
 
