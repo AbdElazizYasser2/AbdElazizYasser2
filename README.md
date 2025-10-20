@@ -63,14 +63,12 @@ class BackendDeveloper
   <img align="left" src="https://www.php.net/images/logos/new-php-logo.svg" alt="php" height="42px"/>
 
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" height="42px"/>
-  
-  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="42px"/>
 
-  <img align="left" src="https://bgasparotto.com/wp-content/uploads/2015/05/mysql-logo.png" alt="SQL Server" height="42px"/>
+  <img align="left" src="https://bgasparotto.com/wp-content/uploads/2015/05/mysql-logo.png" alt="MySQL" height="42px"/>
 
   <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="PostgreSQL" height="42px"/>
 
-  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" alt="Laravel" height="42px"/>
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="Laravel" height="42px"/>
   
   <img align="left" src="https://softwareasli.com/wp-content/uploads/2019/08/ASP.NET_.png" alt="wordpress" height="42px"/>
 
