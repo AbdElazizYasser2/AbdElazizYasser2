@@ -14,34 +14,45 @@ I'm passionate about solving complex backend challenges, improving system archit
 
 ### 🧐 More About Me:
 
-class FullStackDeveloper:
+<?php
+class BackendDeveloper
+{
+    public $name = "Abdelaziz Yasser";
+    public $role = "Backend Developer";
+    public $specialty = "PHP/Laravel Performance & Scalability";
+    public $focus = "API Engineering & Automation";
+    
+    public $stackMastered = [
+        "backend_core" => ["PHP (8+)", "Laravel (Solid)", "SQL (MySQL/PostgreSQL)"],
+        "frontend_base" => ["HTML", "CSS", "JavaScript (Vanilla)", "Blade Templating"],
+        "tools_devops" => ["Git/GitHub", "Linux/Nginx", "Docker/Containers", "Composer"],
+        "optimization" => ["Caching (Redis/Memcached)", "Database Indexing", "Queues (Jobs)"]
+    ];
 
-    def _init_(self):
-        self.name = "Mohamed Ashraf"
-        self.role = "Full Stack & Automation Expert"
-        self.stack = {
-            "languages": ["Python", "JavaScript", "C#"],
-            "frontend": ["HTML", "CSS", "JavaScript"],
-            "backend": ["FastAPI", "Flask"],
-            "automation": ["Selenium", "Playwright", "Requests"],
-            "learning": ["React", ".NET"],
-        }
-        self.expertise = {
-            "automation": "Large-scale systems & API engineering",
-            "web_dev": "Clean, responsive web applications",
-            "specialty": "Performance optimization & scaling"
-        }
-        self.achievements = {
-            "FB Control": "1000+ active users, 500K+ daily operations",
-            "clients": "50+ solutions, 10K+ hours saved",
-            "projects": "15+ successful enterprise deliveries"
-        }
+    public $stackLearning = [
+        "frontend_framework" => "React (Next.js focus)",
+        "alternative_backend" => ".NET Core (C#)"
+    ];
+
+    public $achievementsMetrics = [
+        "user_support" => "Managed systems supporting 1000+ active users",
+        "api_throughput" => "Engineered APIs handling 500K+ daily operations efficiently",
+        "automation_impact" => "Delivered 50+ custom automation solutions, saving over 10,000+ work hours",
+        "enterprise_delivery" => "Led 15+ successful project deliveries with a focus on robust backend architecture"
+    ];
+
+    public function getCurrentMission(): string
+    {
+        return "Currently driving system performance, focusing on {$this->stackLearning['alternative_backend']} integration architecture.";
+    }
     
-    def current_focus(self):
-        return "Building scalable systems that automate the impossible"
-    
-    def fun_fact(self):
-        return "I automate everything I repeat twice! 🚀⚡"
+    public function getMantra(): string
+    {
+        return "If I do it twice, it gets automated. Efficiency first! 🚀";
+    }
+}
+?>
+
 <br>
 
 ### Tech Stack
