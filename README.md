@@ -70,7 +70,7 @@ class BackendDeveloper
 
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="Laravel" height="42px"/>
   
-  <img align="left" src="https://softwareasli.com/wp-content/uploads/2019/08/ASP.NET_.png" alt="wordpress" height="42px"/>
+  <img align="left" src="https://www.iocod.com/section/stack/Livewire.webp" alt="wordpress" height="42px"/>
 
   <img align="left" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="42px"/>
 
