@@ -55,32 +55,6 @@ class BackendDeveloper
 ```
 <br>
 
-### Tech Stack
-<strong>BackEnd:</strong> C# 12, ASP.NET Core 8, RESTful APIs, Clean Architecture, Repository-Service Pattern, CQRS, Mediator Pattern.
-<br>
-<br>
-<strong>FrontEnd:</strong> HTML5, CSS3, JavaScript (Vanilla), Razor Pages, Blazor (Basic), Bootstrap.
-<br>
-<br>
-<strong>Database:</strong> MS SQL Server, PostgreSQL, Entity Framework Core (EF Core), Redis, Database Design & Optimization.
-<br>
-<br>
-<strong>Real-Time:</strong> SignalR, WebSockets, Server-Sent Events (SSE).
-<br>
-<br>
-<strong>Authentication & Secutity:</strong> ASP.NET Core Identity, JWT Authentication, Role-Based Authorization, OAuth2, Data Protection.
-<br>
-<br>
-<strong>Testing & Validation:</strong> xUnit, MSTest, FluentValidation, Custom Middleware Validation.
-<br>
-<br>
-<strong>DevOps & Tools:</strong> Git, GitHub, Postman, Docker, GitHub Actions, Visual Studio, CLI Tools, Azure DevOps, IIS Hosting.
-<br>
-<br>
-<strong>Payment Integration:</strong> Stripe, PayPal, Razorpay, Cash on Delivery (custom payment flow), Webhooks handling.
-<br>
-<br>
-
 ### 🔨 Languages and Tools:-
 
 
