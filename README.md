@@ -17,27 +17,27 @@ I'm passionate about solving complex backend challenges, improving system archit
 <?php
 class BackendDeveloper
 {
-    public $name = "Abdelaziz Yasser";
-    public $role = "Backend Developer";
+    public $name      = "Abdelaziz Yasser";
+    public $role      = "Backend Developer";
     public $specialty = "PHP/Laravel Performance & Scalability";
-    public $focus = "API Engineering & Automation";
+    public $focus     = "API Engineering & Automation";
     
     public $stackMastered = [
-        "backend_core" => ["PHP (8+)", "Laravel (Solid)", "SQL (MySQL/PostgreSQL)"],
+        "backend_core"  => ["PHP (8+)", "Laravel (Solid)", "SQL (MySQL/PostgreSQL)"],
         "frontend_base" => ["HTML", "CSS", "JavaScript (Vanilla)", "Blade Templating"],
-        "tools_devops" => ["Git/GitHub", "Linux/Nginx", "Docker/Containers", "Composer"],
-        "optimization" => ["Caching (Redis/Memcached)", "Database Indexing", "Queues (Jobs)"]
+        "tools_devops"  => ["Git/GitHub", "Linux/Nginx", "Docker/Containers", "Composer"],
+        "optimization"  => ["Caching (Redis/Memcached)", "Database Indexing", "Queues (Jobs)"]
     ];
 
     public $stackLearning = [
-        "frontend_framework" => "React (Next.js focus)",
-        "alternative_backend" => ".NET Core (C#)"
+        "frontend_framework"  => "React (Next.js focus)",
+        "alternative_backend" => "Node.js"
     ];
 
     public $achievementsMetrics = [
-        "user_support" => "Managed systems supporting 1000+ active users",
-        "api_throughput" => "Engineered APIs handling 500K+ daily operations efficiently",
-        "automation_impact" => "Delivered 50+ custom automation solutions, saving over 10,000+ work hours",
+        "user_support"        => "Managed systems supporting 1000+ active users",
+        "api_throughput"      => "Engineered APIs handling 500K+ daily operations efficiently",
+        "automation_impact"   => "Delivered 50+ custom automation solutions, saving over 10,000+ work hours",
         "enterprise_delivery" => "Led 15+ successful project deliveries with a focus on robust backend architecture"
     ];
 
