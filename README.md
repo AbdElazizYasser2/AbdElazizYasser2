@@ -66,7 +66,7 @@ class BackendDeveloper
   
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="42px"/>
 
-  <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKYXx8_EJYlBos0e4zW5R0DTHKhGhRBAUWSA&s" alt="SQL Server" height="42px"/>
+  <img align="left" src="https://www.citypng.com/public/uploads/preview/hd-mysql-logo-transparent-background-701751694771788209ydqoapx.png" alt="SQL Server" height="42px"/>
 
   <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="PostgreSQL" height="42px"/>
 
