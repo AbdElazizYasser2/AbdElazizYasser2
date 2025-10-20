@@ -13,7 +13,7 @@ I'm passionate about solving complex backend challenges, improving system archit
 <br><br>
 
 ### 🧐 More About Me:
-
+```
 <?php
 class BackendDeveloper
 {
@@ -52,7 +52,7 @@ class BackendDeveloper
     }
 }
 ?>
-
+```
 <br>
 
 ### Tech Stack
