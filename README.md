@@ -14,27 +14,33 @@ I'm passionate about solving complex backend challenges, improving system archit
 
 ### 🧐 More About Me:
 
-🔭 I’m currently building robust and scalable backend APIs using ASP.NET Core and C# for enterprise-level applications.
-.
-
-🌱 I’m currently expanding my skills by integrating Cloud Services (like Azure and AWS) and improving my DevOps knowledge with CI/CD pipelines using Docker and GitHub Actions.
-.
-
-👨🏻‍💻 Most of my .NET projects are available on GitHub, including RESTful APIs and real-time systems using SignalR.
-.
-
-💬 Ask me about Backend Development with ASP.NET Core, C#, Entity Framework Core, or anything related to .NET ecosystem!
-.
-
-📫 Feel free to ping me on LinkedIn.
-.
-
-📝 Checkout my resume.
-.
-
-📚 When I’m free, I enjoy reading about new .NET features, design patterns, and scalable backend architecture.
-.
-
+class FullStackDeveloper:
+    def _init_(self):
+        self.name = "Mohamed Ashraf"
+        self.role = "Full Stack & Automation Expert"
+        self.stack = {
+            "languages": ["Python", "JavaScript", "C#"],
+            "frontend": ["HTML", "CSS", "JavaScript"],
+            "backend": ["FastAPI", "Flask"],
+            "automation": ["Selenium", "Playwright", "Requests"],
+            "learning": ["React", ".NET"],
+        }
+        self.expertise = {
+            "automation": "Large-scale systems & API engineering",
+            "web_dev": "Clean, responsive web applications",
+            "specialty": "Performance optimization & scaling"
+        }
+        self.achievements = {
+            "FB Control": "1000+ active users, 500K+ daily operations",
+            "clients": "50+ solutions, 10K+ hours saved",
+            "projects": "15+ successful enterprise deliveries"
+        }
+    
+    def current_focus(self):
+        return "Building scalable systems that automate the impossible"
+    
+    def fun_fact(self):
+        return "I automate everything I repeat twice! 🚀⚡"
 <br>
 
 ### Tech Stack
