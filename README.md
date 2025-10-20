@@ -9,8 +9,8 @@ I’m a Backend Developer specialized in ASP.NET Core, focused on building secur
 With strong expertise in C#, ASP.NET Core, and SQL Server, I develop clean, maintainable code and robust RESTful APIs.
 I'm passionate about solving complex backend challenges, improving system architecture, and continuously learning new technologies in the .NET ecosystem.
 
-<br /> <br /> <img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZXhlZ2UzOWVmdW5vY3hxc2M4bDNsaWt4aTdsMWt3eWVqMmJjOGIwdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif" width="360px"/> 
-<br><br>
+<!-- <br /> <br /> <img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZXhlZ2UzOWVmdW5vY3hxc2M4bDNsaWt4aTdsMWt3eWVqMmJjOGIwdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif" width="360px"/> 
+<br><br> -->
 
 ### 🧐 More About Me:
 ```
