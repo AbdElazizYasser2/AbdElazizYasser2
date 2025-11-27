@@ -28,7 +28,7 @@ public class BackendDeveloper
 
     public Dictionary<string, List<string>> StackMastered { get; set; } = new Dictionary<string, List<string>>
     {
-        { "backend_core", new List<string> { "C# (10+)", "ASP.NET Core", "SQL (SQL Server/PostgreSQL)" } },
+        { "backend_core", new List<string> { "C# (10+)", "ASP.NET Core", "SQL (SQL Server/ Redis)" } },
         { "frontend_base", new List<string> { "HTML5", "CSS3", "Tailwind CSS", "JavaScript (Vanilla)", "Razor Pages / Blazor" } },
         { "tools_devops", new List<string> { "Git/GitHub", "Linux", "Docker/Containers"} },
         { "optimization", new List<string> { "Caching (Redis/Memcached)", "Database Indexing", "Background Services (Hosted Services/Jobs)" } }
