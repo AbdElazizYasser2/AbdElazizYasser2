@@ -5,55 +5,68 @@
 <a href='https://abdelazizyasser.dev@gmail.com'><img align='left' alt="twitter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height='18px'/></a>
 <br>
 
-I'm a Backend Developer specialized in PHP/Laravel, focused on building secure, scalable, 
-and high-performance web applications. With strong expertise in PHP (8+), Laravel, and MySQL/PostgreSQL, 
+I'm a Backend Developer specialized in C#/.NET, focused on building secure, scalable, 
+and high-performance web applications. With strong expertise in C# (10+), ASP.NET Core, and SQL Server/PostgreSQL, 
 I develop clean, maintainable code and robust RESTful APIs. 
 I'm passionate about solving complex backend challenges, 
-improving system architecture, and continuously learning new technologies in the PHP/Web ecosystem.
+improving system architecture, and continuously learning new technologies in the .NET/Web ecosystem.
 
 <!-- <br /> <br /> <img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZXhlZ2UzOWVmdW5vY3hxc2M4bDNsaWt4aTdsMWt3eWVqMmJjOGIwdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif" width="360px"/> 
 <br><br> -->
 
 ### 🧐 More About Me:
-```php
-<?php
-class BackendDeveloper
+```
+using System;
+using System.Collections.Generic;
+
+public class BackendDeveloper
 {
-    public $name      = "Abdelaziz Yasser";
-    public $role      = "Backend Developer";
-    public $specialty = "PHP/Laravel Performance & Scalability";
-    public $focus     = "API Engineering & Automation";
-    
-    public $stackMastered = [
-        "backend_core"  => ["PHP (8+)", "Laravel (Solid)", "SQL (MySQL/PostgreSQL)"],
-        "frontend_base" => ["HTML", "CSS", "JavaScript (Vanilla)", "Blade Templating"],
-        "tools_devops"  => ["Git/GitHub", "Linux/Nginx", "Docker/Containers", "Composer"],
-        "optimization"  => ["Caching (Redis/Memcached)", "Database Indexing", "Queues (Jobs)"]
-    ];
+    public string Name { get; set; } = "Abdelaziz Yasser";
+    public string Role { get; set; } = "Back-End Developer";
+    public string Specialty { get; set; } = ".NET Core / ASP.NET Performance & Scalability";
+    public string Focus { get; set; } = "API Engineering & Automation";
 
-    public $stackLearning = [
-        "frontend_framework"  => "React (Next.js focus)",
-        "alternative_backend" => "Node.js"
-    ];
-
-    public $achievementsMetrics = [
-        "user_support"        => "Managed systems supporting 1000+ active users",
-        "api_throughput"      => "Engineered APIs handling 500K+ daily operations efficiently",
-        "automation_impact"   => "Delivered 50+ custom automation solutions, saving over 10,000+ work hours",
-        "enterprise_delivery" => "Led 15+ successful project deliveries with a focus on robust backend architecture"
-    ];
-
-    public function getCurrentMission(): string
+    public Dictionary<string, List<string>> StackMastered { get; set; } = new Dictionary<string, List<string>>
     {
-        return "Currently driving system performance, focusing on {$this->stackLearning['alternative_backend']} integration architecture.";
+        { "backend_core", new List<string> { "C# (10+)", "ASP.NET Core", "SQL (SQL Server/PostgreSQL)" } },
+        { "frontend_base", new List<string> { "HTML5", "CSS3", "Tailwind CSS", "JavaScript (Vanilla)", "Razor Pages / Blazor" } },
+        { "tools_devops", new List<string> { "Git/GitHub", "Linux", "Docker/Containers"} },
+        { "optimization", new List<string> { "Caching (Redis/Memcached)", "Database Indexing", "Background Services (Hosted Services/Jobs)" } }
+    };
+
+    public Dictionary<string, string> StackLearning { get; set; } = new Dictionary<string, string>
+    {
+        { "frontend_framework", "Blazor (C# focus)" }
+    };
+
+    public Dictionary<string, string> AchievementsMetrics { get; set; } = new Dictionary<string, string>
+    {
+        { "user_support", "Managed systems supporting 1000+ active users" },
+        { "api_throughput", "Engineered APIs handling 500K+ daily operations efficiently" },
+        { "automation_impact", "Delivered 50+ custom automation solutions, saving over 10,000+ work hours" },
+        { "enterprise_delivery", "Led 15+ successful project deliveries with a focus on robust backend architecture" }
+    };
+
+    public string GetCurrentMission()
+    {
+        return "Currently driving system performance and focusing on enhancing .NET backend architecture.";
     }
-    
-    public function getMantra(): string
+
+    public string GetMantra()
     {
-        return "If I do it twice, it gets automated. Efficiency first! 🚀";
+        return "If I do it twice, it gets automated. Efficiency first!";
     }
 }
-?>
+
+class Program
+{
+    static void Main()
+    {
+        var developer = new BackendDeveloper();
+        Console.WriteLine(developer.GetCurrentMission());
+        Console.WriteLine(developer.GetMantra());
+    }
+}
 ```
 <br>
 
