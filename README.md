@@ -85,7 +85,7 @@ class Program
   
   <img align="left" src="https://www.mvc-controls.com/images/Courses/acore.png" alt="asp .net" height="42px"/>
   
-  <img align="left" src="https://www.citypng.com/public/uploads/preview/wordpress-logo-image-png-701751694773680sodsik7zlf.png" alt="wordpress" height="42px"/>
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="Blazor" height="42px"/>
 
   <img align="left" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="42px"/>
 
