@@ -83,7 +83,7 @@ class Program
 
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" alt=".NET" height="42px"/>
   
-  <img align="left" src="https://www.mvc-controls.com/images/Courses/acore.png" alt="asp .net" height="42px"/>
+  <img align="left" src="https://logodix.com/logo/1796970.png" alt="asp .net" height="42px"/>
   
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="Blazor" height="42px"/>
 
