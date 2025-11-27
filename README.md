@@ -5,8 +5,8 @@
 <a href='https://abdelazizyasser.dev@gmail.com'><img align='left' alt="twitter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height='18px'/></a>
 <br>
 
-I'm a Backend Developer specialized in C#/.NET, focused on building secure, scalable, 
-and high-performance web applications. With strong expertise in C# (10+), ASP.NET Core, and SQL Server, 
+I'm a **Backend Developer** specialized in **C#/.NET**, focused on building secure, scalable, 
+and high-performance web applications. With strong expertise in **C# (10+), ASP.NET Core**, and **SQL Server/Redis**, 
 I develop clean, maintainable code and robust RESTful APIs. 
 I'm passionate about solving complex backend challenges, 
 improving system architecture, and continuously learning new technologies in the .NET/Web ecosystem.
