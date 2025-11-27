@@ -79,7 +79,7 @@ class Program
 
   <img align="left" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSS" height="42px"/>
 
-  <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="PostgreSQL" height="42px"/>
+  <img align="left" src="https://www.svgrepo.com/show/303460/redis-logo.svg" alt="Redis" height="42px"/>
 
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" alt=".NET" height="42px"/>
   
