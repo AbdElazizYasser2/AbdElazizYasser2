@@ -6,7 +6,7 @@
 <br>
 
 I'm a Backend Developer specialized in C#/.NET, focused on building secure, scalable, 
-and high-performance web applications. With strong expertise in C# (10+), ASP.NET Core, and SQL Server/PostgreSQL, 
+and high-performance web applications. With strong expertise in C# (10+), ASP.NET Core, and SQL Server, 
 I develop clean, maintainable code and robust RESTful APIs. 
 I'm passionate about solving complex backend challenges, 
 improving system architecture, and continuously learning new technologies in the .NET/Web ecosystem.
