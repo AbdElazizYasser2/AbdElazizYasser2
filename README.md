@@ -85,7 +85,7 @@ class Program
   
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="Laravel" height="42px"/>
   
-  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="Blazor" height="42px"/>
+  <img align="left" src="https://files.svgcdn.io/devicon/livewire.png" alt="Livewire" height="42px"/>
 
   <img align="left" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="42px"/>
 
