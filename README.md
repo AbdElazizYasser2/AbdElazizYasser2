@@ -81,7 +81,7 @@ class Program
 
   <img align="left" src="https://www.svgrepo.com/show/303460/redis-logo.svg" alt="Redis" height="42px"/>
 
-  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" alt=".NET" height="42px"/>
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="TailwindCSS" height="42px"/>
   
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="Laravel" height="42px"/>
   
