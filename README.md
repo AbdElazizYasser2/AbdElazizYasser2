@@ -14,10 +14,10 @@ improving system architecture, and continuously learning new technologies in the
 <br><br> -->
 
 ### 🧐 More About Me:
-```php<?php
+```php
+<?php
 
 namespace App\Services;
-
 use Illuminate\Support\Collection;
 
 class BackendDeveloper
