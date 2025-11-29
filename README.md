@@ -10,54 +10,58 @@ I'm a **Back-End Developer** specialized in **C#/.NET**, focused on building sec
 <br><br> -->
 
 ### 🧐 More About Me:
-```php
-<?php
+```CSharp
+using System;
+using System.Collections.Generic;
 
-namespace App\Services;
-use Illuminate\Support\Collection;
-
-class BackendDeveloper
+public class BackendDeveloper
 {
-    public string $name = "Abdelaziz Yasser";
-    public string $role = "Back-End Developer";
-    public string $specialty = "Laravel / PHP Performance & Scalability";
-    public string $focus = "API Engineering & Automation";
+    public string Name { get; set; } = "Abdelaziz Yasser";
+    public string Role { get; set; } = "Back-End Developer";
+    public string Specialty { get; set; } = ".NET Core / ASP.NET Performance & Scalability";
+    public string Focus { get; set; } = "API Engineering & Automation";
 
-    public Collection $stackMastered;
-    public Collection $stackLearning;
-    public Collection $achievementsMetrics;
-
-    public function __construct()
+    public Dictionary<string, List<string>> StackMastered { get; set; } = new Dictionary<string, List<string>>
     {
-        $this->stackMastered = collect([
-            'backend_core' => collect(['PHP 8+', 'Laravel 12', 'MySQL/Redis']),
-            'frontend_base' => collect(['HTML5', 'CSS3', 'Tailwind CSS', 'JavaScript (Vanilla)', 'Blade Templates']),
-            'tools_devops' => collect(['Git/GitHub', 'Linux', 'Docker/Containers']),
-            'optimization' => collect(['Caching (Redis/Memcached)', 'Database Indexing', 'Queue Jobs / Background Services']),
-        ]);
+        { "backend_core", new List<string> { "C# (10+)", "ASP.NET Core", "SQL (SQL Server/ Redis)" } },
+        { "frontend_base", new List<string> { "HTML5", "CSS3", "Tailwind CSS", "JavaScript (Vanilla)", "Razor Pages / Blazor" } },
+        { "tools_devops", new List<string> { "Git/GitHub", "Linux", "Docker/Containers"} },
+        { "optimization", new List<string> { "Caching (Redis/Memcached)", "Database Indexing", "Background Services (Hosted Services/Jobs)" } }
+    };
 
-        $this->stackLearning = collect([
-            'frontend_framework' => 'Livewire / Alpine.js (Laravel focus)',
-        ]);
+    public Dictionary<string, string> StackLearning { get; set; } = new Dictionary<string, string>
+    {
+        { "frontend_framework", "Blazor (C# focus)" }
+    };
 
-        $this->achievementsMetrics = collect([
-            'user_support' => 'Managed systems supporting 1000+ active users',
-            'api_throughput' => 'Engineered APIs handling 500K+ daily operations efficiently',
-            'automation_impact' => 'Delivered 50+ custom automation solutions, saving over 10,000+ work hours',
-            'enterprise_delivery' => 'Led 15+ successful project deliveries with a focus on robust backend architecture',
-        ]);
+    public Dictionary<string, string> AchievementsMetrics { get; set; } = new Dictionary<string, string>
+    {
+        { "user_support", "Managed systems supporting 1000+ active users" },
+        { "api_throughput", "Engineered APIs handling 500K+ daily operations efficiently" },
+        { "automation_impact", "Delivered 50+ custom automation solutions, saving over 10,000+ work hours" },
+        { "enterprise_delivery", "Led 15+ successful project deliveries with a focus on robust backend architecture" }
+    };
+
+    public string GetCurrentMission()
+    {
+        return "Currently driving system performance and focusing on enhancing .NET backend architecture.";
     }
 
-    public function getCurrentMission(): string
-    {
-        return "Currently driving system performance and focusing on enhancing Laravel backend architecture.";
-    }
-
-    public function getMantra(): string
+    public string GetMantra()
     {
         return "If I do it twice, it gets automated. Efficiency first!";
     }
 }
+
+class Program
+{
+    static void Main()
+    {
+        var developer = new BackendDeveloper();
+        Console.WriteLine(developer.GetCurrentMission());
+        Console.WriteLine(developer.GetMantra());
+    }
+}  
 ```
 <br>
 
