@@ -77,7 +77,7 @@ class Program
 
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" height="42px"/>
 
-  <img align="left" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSS" height="42px"/>
+  <img align="left" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" alt="mySQL" height="42px"/>
 
   <img align="left" src="https://www.svgrepo.com/show/303460/redis-logo.svg" alt="Redis" height="42px"/>
 
