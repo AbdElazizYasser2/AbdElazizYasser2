@@ -34,8 +34,8 @@ class BackendDeveloper
     public function __construct()
     {
         $this->stackMastered = collect([
-            'backend_core' => collect(['PHP 8+', 'Laravel 12', 'MySQL/PostgreSQL/Redis']),
-            'frontend_base' => collect(['HTML5', 'CSS3', 'Tailwind CSS', 'JavaScript (Vanilla)', 'Blade Templates']),
+            'backend_core' => collect(['PHP 8+', 'Laravel 12', 'MySQL/Redis']),
+            'frontend_base' => collect(['HTML5', 'CSS3', 'Tailwind CSS', 'JavaScript(Basic)', 'Blade Templates']),
             'tools_devops' => collect(['Git/GitHub', 'Linux', 'Docker/Containers']),
             'optimization' => collect(['Caching (Redis/Memcached)', 'Database Indexing', 'Queue Jobs / Background Services']),
         ]);
