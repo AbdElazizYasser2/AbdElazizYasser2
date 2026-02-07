@@ -110,7 +110,7 @@ namespace App.Services
 
   <img align="left" src="https://www.svgrepo.com/show/303460/redis-logo.svg" alt="Redis" height="42px"/>
   
-  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/500px-Microsoft_.NET_logo.svg.png" alt=".NET" height="42px"/>
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/960px-.NET_Core_Logo.svg.png" alt=".NET" height="42px"/>
   
   <img align="left" src="https://files.svgcdn.io/devicon/livewire.png" alt="Livewire" height="42px"/>
 
