@@ -4,7 +4,11 @@
 
 <a href='https://abdelazizyasser.dev@gmail.com'><img align='left' alt="twitter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height='18px'/></a>
 <br>
-I'm a Back-End Developer specialized in **PHP/Laravel**, experienced in building secure and high-performance web applications, **RESTful API's**, and working with **MySQL and Redis**. Passionate about clean code, system optimization, and continuous learning.
+• I’m a **.NET Developer** with hands-on experience in building scalable backend applications with **ASP.NET Core**, skilled in designing **RESTful APIs**, integrating services, and delivering reliable business-aligned solutions.
+<br>
+• Experienced in working with **SQL Server** and **Redis**, and I am highly proficient in working with **EF Core** to build advanced queries and optimize database performance.
+<br>
+• Experienced in **OOP, SOLID principles, and Design Patterns**, applying **MVC and Clean Architecture** to build flexible, maintainable applications. Skilled with **Docker, CI/CD, Git, Unit Testing**, and working in **Agile environments** to deliver high-quality solutions.
 <!-- <br /> <br /> <img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZXhlZ2UzOWVmdW5vY3hxc2M4bDNsaWt4aTdsMWt3eWVqMmJjOGIwdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif" width="360px"/> 
 <br><br> -->
 
