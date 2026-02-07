@@ -13,52 +13,87 @@
 <br><br> -->
 
 ### 🧐 More About Me:
-```php
-<?php
+```C#
+using System.Collections.Generic;
 
-namespace App\Services;
-use Illuminate\Support\Collection;
-
-class BackendDeveloper
+namespace App.Services
 {
-    public string $name = "Abdelaziz Yasser";
-    public string $role = "Back-End Developer";
-    public string $specialty = "Laravel / PHP Performance & Scalability";
-    public string $focus = "API Engineering & Automation";
-
-    public Collection $stackMastered;
-    public Collection $stackLearning;
-    public Collection $achievementsMetrics;
-
-    public function __construct()
+    public class BackendDeveloper
     {
-        $this->stackMastered = collect([
-            'backend_core' => collect(['PHP 8+', 'Laravel 12', 'MySQL/Redis']),
-            'frontend_base' => collect(['HTML5', 'CSS3', 'Tailwind CSS', 'JavaScript(Basic)', 'Blade Templates']),
-            'tools_devops' => collect(['Git/GitHub', 'Linux', 'Docker/Containers']),
-            'optimization' => collect(['Caching (Redis/Memcached)', 'Database Indexing', 'Queue Jobs / Background Services']),
-        ]);
+        public string Name { get; set; } = "Abdelaziz Yasser";
+        public string Role { get; set; } = "Back-End .NET Developer";
+        public string Specialty { get; set; } = ".NET Performance, Scalability & Clean Architecture";
+        public string Focus { get; set; } = "API Engineering, Distributed Systems";
 
-        $this->stackLearning = collect([
-            'frontend_framework' => 'Livewire / Alpine.js (Laravel focus)',
-        ]);
+        public Dictionary<string, List<string>> StackMastered { get; set; }
+        public Dictionary<string, string> StackLearning { get; set; }
+        public Dictionary<string, string> AchievementsMetrics { get; set; }
 
-        $this->achievementsMetrics = collect([
-            'user_support' => 'Managed systems supporting 1000+ active users',
-            'api_throughput' => 'Engineered APIs handling 500K+ daily operations efficiently',
-            'automation_impact' => 'Delivered 50+ custom automation solutions, saving over 10,000+ work hours',
-            'enterprise_delivery' => 'Led 15+ successful project deliveries with a focus on robust backend architecture',
-        ]);
-    }
+        public BackendDeveloper()
+        {
+            StackMastered = new Dictionary<string, List<string>>
+            {
+                ["backend_core"] = new List<string>
+                {
+                    "C#",
+                    ".NET Core",
+                    "ASP.NET Core MVC",
+                    "ASP.NET Core Web API",
+                    "Entity Framework Core",
+                    "LINQ"
+                },
+                ["database"] = new List<string>
+                {
+                    "SQL Server",
+                    "Redis"
+                },
+                ["architecture"] = new List<string>
+                {
+                    "Clean Architecture",
+                    "Repository Pattern",
+                    "Dependency Injection",
+                    "CQRS (Basic)"
+                },
+                ["performance"] = new List<string>
+                {
+                    "Async / Await",
+                    "Caching (In-Memory / Redis)",
+                    "Background Services",
+                    "Rate Limiting"
+                },
+                ["devops_tools"] = new List<string>
+                {
+                    "Git / GitHub",
+                    "Docker",
+                    "Linux",
+                    "CI/CD Pipelines",
+                }
+            };
 
-    public function getCurrentMission(): string
-    {
-        return "Currently driving system performance and focusing on enhancing Laravel backend architecture.";
-    }
+            StackLearning = new Dictionary<string, string>
+            {
+                ["cloud"] = "Azure Fundamentals & Cloud Services",
+                ["messaging"] = "RabbitMQ / Azure Service Bus",
+                ["advanced_topics"] = "Microservices & gRPC"
+            };
 
-    public function getMantra(): string
-    {
-        return "If I do it twice, it gets automated. Efficiency first!";
+            AchievementsMetrics = new Dictionary<string, string>
+            {
+                ["api_scalability"] = "Built scalable APIs serving thousands of concurrent requests",
+                ["system_performance"] = "Optimized database queries and caching for high-load systems",
+                ["delivery"] = "Delivered multiple backend systems following Clean Architecture principles"
+            };
+        }
+
+        public string GetCurrentMission()
+        {
+            return "Building high-performance, scalable backend systems using .NET and Clean Architecture.";
+        }
+
+        public string GetMantra()
+        {
+            return "Clean Architecture today saves production tomorrow.";
+        }
     }
 }
 ```
