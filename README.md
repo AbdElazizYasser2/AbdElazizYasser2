@@ -112,7 +112,7 @@ namespace App.Services
   
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/960px-.NET_Core_Logo.svg.png" alt=".NET" height="42px"/>
   
-  <img align="left" src="https://files.svgcdn.io/devicon/livewire.png" alt="Livewire" height="42px"/>
+  <img align="left" src="https://www.mvc-controls.com/images/Courses/acore.png" alt="ASP.NET" height="42px"/>
 
   <img align="left" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="42px"/>
 
