@@ -102,7 +102,7 @@ namespace App.Services
 ### 🔨 Languages and Tools:-
 
 
-  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="php" height="42px"/>
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/960px-Logo_C_sharp.svg.png" alt="C#" height="42px"/>
 
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" height="42px"/>
 
@@ -110,7 +110,7 @@ namespace App.Services
 
   <img align="left" src="https://www.svgrepo.com/show/303460/redis-logo.svg" alt="Redis" height="42px"/>
   
-  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="Laravel" height="42px"/>
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/500px-Microsoft_.NET_logo.svg.png" alt=".NET" height="42px"/>
   
   <img align="left" src="https://files.svgcdn.io/devicon/livewire.png" alt="Livewire" height="42px"/>
 
