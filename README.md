@@ -4,96 +4,98 @@
 
 <a href='https://abdelazizyasser.dev@gmail.com'><img align='left' alt="twitter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height='18px'/></a>
 <br><br>
-• I’m a **.NET Developer** with hands-on experience in building scalable backend applications with **ASP.NET Core**, skilled in designing **RESTful APIs**, integrating services, and delivering reliable business-aligned solutions.
+• I’m a **PHP Developer** with hands-on experience in building scalable backend applications with **Laravel framework**, skilled in designing **RESTful APIs**, integrating services, and delivering reliable business-aligned solutions.
 <br><br>
-• Experienced in working with **SQL Server** and **Redis**, and I am highly proficient in working with **EF Core** to build advanced queries and optimize database performance.
+• Experienced in working with **MySQL** and **Redis**, and I am highly proficient in working with **Eloquent ORM** to build advanced queries and optimize database performance.
 <br><br>
 • Experienced in **OOP, SOLID principles, and Design Patterns**, applying **MVC and Clean Architecture** to build flexible, maintainable applications. Skilled with **Docker, CI/CD, Git, Unit Testing**, and working in **Agile environments** to deliver high-quality solutions.
 <!-- <br /> <br /> <img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZXhlZ2UzOWVmdW5vY3hxc2M4bDNsaWt4aTdsMWt3eWVqMmJjOGIwdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif" width="360px"/> 
 <br><br> -->
 
 ### 🧐 More About Me:
-```C#
-using System.Collections.Generic;
+```php
+<?php
 
-namespace App.Services
+namespace App\Services;
+
+class BackendDeveloper
 {
-    public class BackendDeveloper
+    public string $name = "Abdelaziz Yasser";
+    public string $role = "Back-End Laravel Developer";
+    public string $specialty = "Laravel Performance, Scalable APIs & Clean Architecture";
+    public string $focus = "RESTful API Engineering, System Design &  High Performance Backend Systems";
+
+    public array $stackMastered;
+    public array $stackLearning;
+    public array $achievementsMetrics;
+
+    public function __construct()
     {
-        public string Name { get; set; } = "Abdelaziz Yasser";
-        public string Role { get; set; } = "Back-End .NET Developer";
-        public string Specialty { get; set; } = ".NET Performance, Scalability & Clean Architecture";
-        public string Focus { get; set; } = "API Engineering, Distributed Systems";
+        $this->stackMastered = [
+            "backend_core" => [
+                "PHP (8+)",
+                "Laravel Framework",
+                "RESTful APIs",
+                "Eloquent ORM",
+                "Laravel Resources & API Transformers"
+            ],
 
-        public Dictionary<string, List<string>> StackMastered { get; set; }
-        public Dictionary<string, string> StackLearning { get; set; }
-        public Dictionary<string, string> AchievementsMetrics { get; set; }
+            "database" => [
+                "MySQL",
+                "Database Optimization & Indexing",
+                "Redis"
+            ],
 
-        public BackendDeveloper()
-        {
-            StackMastered = new Dictionary<string, List<string>>
-            {
-                ["backend_core"] = new List<string>
-                {
-                    "C#",
-                    ".NET Core",
-                    "ASP.NET Core MVC",
-                    "ASP.NET Core Web API",
-                    "Entity Framework Core",
-                    "LINQ"
-                },
-                ["database"] = new List<string>
-                {
-                    "SQL Server",
-                    "Redis"
-                },
-                ["architecture"] = new List<string>
-                {
-                    "Clean Architecture",
-                    "Repository Pattern",
-                    "Dependency Injection",
-                    "CQRS (Basic)"
-                },
-                ["performance"] = new List<string>
-                {
-                    "Async / Await",
-                    "Caching (In-Memory / Redis)",
-                    "Background Services",
-                    "Rate Limiting"
-                },
-                ["devops_tools"] = new List<string>
-                {
-                    "Git / GitHub",
-                    "Docker",
-                    "Linux",
-                    "CI/CD Pipelines",
-                }
-            };
+            "architecture" => [
+                "Clean Architecture",
+                "Repository Pattern",
+                "Service Layer Pattern",
+                "Dependency Injection",
+                "SOLID Principles"
+            ],
 
-            StackLearning = new Dictionary<string, string>
-            {
-                ["cloud"] = "Azure Fundamentals & Cloud Services",
-                ["messaging"] = "RabbitMQ / Azure Service Bus",
-                ["advanced_topics"] = "Microservices & gRPC"
-            };
+            "performance" => [
+                "Laravel Caching (In-Memory / Redis)",
+                "Queues & Background Jobs",
+                "Lazy vs Eager Loading Optimization",
+                "Rate Limiting"
+            ],
 
-            AchievementsMetrics = new Dictionary<string, string>
-            {
-                ["api_scalability"] = "Built scalable APIs serving thousands of concurrent requests",
-                ["system_performance"] = "Optimized database queries and caching for high-load systems",
-                ["delivery"] = "Delivered multiple backend systems following Clean Architecture principles"
-            };
-        }
+            "security" => [
+                "Laravel Sanctum Authentication",
+                "Authorization Policies & Gates",
+                "Input Validation & Data Sanitization",
+                "Protection Against Common Web Vulnerabilities (XSS, CSRF, SQL Injection)"
+            ],
 
-        public string GetCurrentMission()
-        {
-            return "Building high-performance, scalable backend systems using .NET and Clean Architecture.";
-        }
+            "devops_tools" => [
+                "Git / GitHub",
+                "Docker",
+                "Linux",
+                "CI/CD Basics"
+            ]
+        ];
 
-        public string GetMantra()
-        {
-            return "Clean Architecture today saves production tomorrow.";
-        }
+        $this->stackLearning = [
+            "cloud" => "AWS Services for Laravel Deployment",
+            "advanced_topics" => "Microservices Architecture & Laravel Octane"
+        ];
+
+        $this->achievementsMetrics = [
+            "api_scalability" => "Designed scalable REST APIs supporting high concurrency and optimized response times",
+            "system_performance" => "Enhanced backend performance using caching strategies and database optimization",
+            "architecture_delivery" => "Implemented backend systems using Clean Architecture and modular service design"
+        ];
+    }
+
+    public function getCurrentMission(): string
+    {
+        return "Building secure, scalable and high-performance backend systems using Laravel and modern API architecture.";
+    }
+
+    public function getMantra(): string
+    {
+        return "Well-structured backend systems scale faster and fail less.";
     }
 }
 ```
