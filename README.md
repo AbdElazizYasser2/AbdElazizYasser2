@@ -104,17 +104,15 @@ class BackendDeveloper
 ### 🔨 Languages and Tools:-
 
 
-  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/960px-Logo_C_sharp.svg.png" alt="C#" height="42px"/>
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/3840px-PHP-logo.svg.png" alt="php" height="42px"/>
 
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" height="42px"/>
 
-  <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="SQL Server" height="42px"/>
+  <img align="left" src="https://brandlogos.net/wp-content/uploads/2017/05/mysql-logo_brandlogos.net_fqzvv-512x349.png" alt="MySQL" height="42px"/>
 
   <img align="left" src="https://www.svgrepo.com/show/303460/redis-logo.svg" alt="Redis" height="42px"/>
   
-  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/960px-.NET_Core_Logo.svg.png" alt=".NET" height="42px"/>
-  
-  <img align="left" src="https://www.mvc-controls.com/images/Courses/acore.png" alt="ASP.NET" height="42px"/>
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1280px-Laravel.svg.png" alt="Laravel" height="42px"/>
 
   <img align="left" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="42px"/>
 
