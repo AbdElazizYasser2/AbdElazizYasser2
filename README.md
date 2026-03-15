@@ -23,7 +23,6 @@
 Major: Information Systems(IS)
 <br>
 Damietta University – Egypt  
-<br>
 Grade: **Good**
 
 ---
