@@ -46,6 +46,8 @@ Grade: **Good**
 - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 - ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+- ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android&logoColor=white)
 
 ---
 
