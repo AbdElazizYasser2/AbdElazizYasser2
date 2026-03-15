@@ -3,6 +3,7 @@
 
 🌍 **Location:** Damietta, Egypt  
 💼 **Role:** Flutter Developer | Mobile App
+<br>
 🎯 **Specialization:** Flutter • REST APIs • State Management • Clean Architecture
 
 ---
