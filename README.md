@@ -1,9 +1,9 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1E90FF&size=40&center=true&vCenter=true&width=900&height=70&lines=Hello%2C+I'm+Mahmoud+Zain+%F0%9F%91%8B;Back-End+Node.js+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1E90FF&size=40&center=true&vCenter=true&width=900&height=70&lines=Hello%2C+I'm+Abdelaziz+Yasser+%F0%9F%91%8B;Flutter+Developer)
 
 
 🌍 **Location:** Damietta, Egypt  
 💼 **Role:** Flutter Developer | Mobile App
-🎯 Specialization: Flutter • REST APIs • State Management • Clean Architecture
+🎯 **Specialization:** Flutter • REST APIs • State Management • Clean Architecture
 
 ---
 
