@@ -19,8 +19,11 @@
 
 ## 🎓 Education
 **Bachelor of Computer Science & Artificial Intelligence**
+<br>
 Major: Information Systems(IS)
+<br>
 Damietta University – Egypt  
+<br>
 Grade: **Good**
 
 ---
@@ -32,8 +35,6 @@ Grade: **Good**
 - ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 - ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white)
 - 
-
----
 
 > My **Mobile App Development** experience allows me to build scalable mobile applications and integrate them seamlessly with backend APIs while delivering smooth and responsive user experiences.
 
