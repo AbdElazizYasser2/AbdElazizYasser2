@@ -36,6 +36,7 @@ Grade: **Good**
 - ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
 - ![BLoC](https://img.shields.io/badge/-BLoC-673AB7?logo=flutter&logoColor=white)
 - ![Hive](https://img.shields.io/badge/-Hive-FF6F00?logo=hive&logoColor=white)
+- ![REST APIs](https://img.shields.io/badge/-REST%20APIs-007ACC?logo=webhooks&logoColor=white)
 
 > My **Mobile App Development** experience allows me to build scalable mobile applications and integrate them seamlessly with backend APIs while delivering smooth and responsive user experiences.
 
