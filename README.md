@@ -55,7 +55,7 @@ Grade: **Good**
 ---
 
 ## 🔗 Connect With Me
-- 💼 **LinkedIn:** https://www.linkedin.com/in/abdelaziz-yasser/
-- **Gmail:** https://mail.google.com/mail/?view=cm&to=abdelazizyasser.dev@gmail.com
+- 💼 **[LinkedIn](https://www.linkedin.com/in/abdelaziz-yasser/)**
+- 📧 **[Email](mailto:abdelazizyasser.dev@gmail.com)**
 
 ---
