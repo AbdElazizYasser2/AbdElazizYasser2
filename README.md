@@ -4,11 +4,11 @@
 
 <a href='https://abdelazizyasser.dev@gmail.com'><img align='left' alt="twitter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height='18px'/></a>
 <br><br>
-• I’m a **PHP Developer** with hands-on experience in building scalable backend applications with **Laravel framework**, skilled in designing **RESTful APIs**, integrating services, and delivering reliable business-aligned solutions.
+I’m a **Flutter Developer** with hands-on experience in building high-performance **cross-platform mobile applications** using **Flutter** and **Dart**. Skilled in creating responsive UI, integrating RESTful APIs, and delivering scalable and user-focused mobile solutions.
 <br><br>
-• Experienced in working with **MySQL** and **Redis**, and I am highly proficient in working with **Eloquent ORM** to build advanced queries and optimize database performance.
+• Experienced in **state management** solutions such as **Provider, Riverpod, or Bloc**, and building clean, maintainable architectures for complex applications.
 <br><br>
-• Experienced in **OOP, SOLID principles, and Design Patterns**, applying **MVC and Clean Architecture** to build flexible, maintainable applications. Skilled with **Docker, CI/CD, Git, Unit Testing**, and working in **Agile environments** to deliver high-quality solutions.
+• Strong understanding of **OOP principles, Clean Architecture**, and best practices for mobile app development. Experienced with Git, REST API integration, Firebase services, and working in **Agile environments** to deliver high-quality applications.
 <!-- <br /> <br /> <img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZXhlZ2UzOWVmdW5vY3hxc2M4bDNsaWt4aTdsMWt3eWVqMmJjOGIwdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif" width="360px"/> 
 <br><br> -->
 
