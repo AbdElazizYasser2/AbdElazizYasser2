@@ -33,7 +33,7 @@ Grade: **Good**
 - ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
 - ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 - ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white)
-- ![Hive Blockchain](https://img.shields.io/badge/-Hive%20Blockchain-FF6F00?logo=hive&logoColor=white)
+- ![Hive](https://img.shields.io/badge/-Hive%20Blockchain-FF6F00?logo=hive&logoColor=white)
 
 > My **Mobile App Development** experience allows me to build scalable mobile applications and integrate them seamlessly with backend APIs while delivering smooth and responsive user experiences.
 
