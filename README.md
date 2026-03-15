@@ -29,7 +29,7 @@ Grade: **Good**
 
 ## 🚀 Technical Skills
 
-### 🔧 Mobile App Development
+### 📱 Mobile App Development
 - ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
 - ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 - ![BLoC](https://img.shields.io/badge/-BLoC-673AB7?logo=flutter&logoColor=white)
