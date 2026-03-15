@@ -1,10 +1,10 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1E90FF&size=40&center=true&vCenter=true&width=900&height=70&lines=Hello%2C+I'm+Abdelaziz+Yasser+%F0%9F%91%8B;Flutter+Developer)
 
 
-🌍 **Location:** Damietta, Egypt  
-💼 **Role:** Flutter Developer | Mobile App
+🌍 **Location:** Damietta, Egypt.  
+💼 **Role:** Flutter Developer | Mobile App.
 <br>
-🎯 **Specialization:** Flutter • REST APIs • State Management • Clean Architecture
+🎯 **Specialization:** Flutter • REST APIs • State Management • Clean Architecture.
 
 ---
 
@@ -20,7 +20,7 @@
 ## 🎓 Education
 **Bachelor of Computer Science & Artificial Intelligence**
 <br>
-Major: Information Systems(IS)
+Major: Information Systems (IS)
 <br>
 Damietta University – Egypt  
 Grade: **Good**
@@ -32,10 +32,10 @@ Grade: **Good**
 ### 🔧 Mobile App Development
 - ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
 - ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
-- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white)
-- ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
 - ![BLoC](https://img.shields.io/badge/-BLoC-673AB7?logo=flutter&logoColor=white)
 - ![Hive](https://img.shields.io/badge/-Hive-FF6F00?logo=hive&logoColor=white)
+- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white)
+- ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
 - ![REST APIs](https://img.shields.io/badge/-REST%20APIs-007ACC?logo=webhooks&logoColor=white)
 
 > My **Mobile App Development** experience allows me to build scalable mobile applications and integrate them seamlessly with backend APIs while delivering smooth and responsive user experiences.
@@ -56,6 +56,6 @@ Grade: **Good**
 
 ## 🔗 Connect With Me
 - 💼 **LinkedIn:** https://www.linkedin.com/in/abdelaziz-yasser/
-- **Gmail:** mailto:abdelazizyasser.dev@gmail.com
+- **Gmail:** https://mail.google.com/mail/?view=cm&to=abdelazizyasser.dev@gmail.com
 
 ---
