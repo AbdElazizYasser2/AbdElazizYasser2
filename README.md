@@ -1,19 +1,21 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1E90FF&size=40&center=true&vCenter=true&width=900&height=70&lines=Hello%2C+I'm+Abdelaziz+Yasser+%F0%9F%91%8B;Flutter+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1E90FF&size=40&center=true&vCenter=true&width=900&height=70&lines=Hello%2C+I'm+Abdelaziz+Yasser+%F0%9F%91%8B;Backend+Developer)
 
 
 🌍 **Location:** Damietta, Egypt.  
-💼 **Role:** Flutter Developer | Mobile Applications.
+💼 **Role:** Backend Developer(Node.js)
 <br>
-🎯 **Specialization:** Flutter • REST APIs • State Management • Clean Architecture.
+🎯 **Specialization:** APIs • Databases • Authentication • Scalable Systems.
 
 ---
 
 ## 👋 About Me
-• I’m a **Flutter Developer** with hands-on experience in building high-performance **cross-platform mobile applications** using **Flutter** and **Dart**. Skilled in creating responsive UI, integrating RESTful APIs, and delivering scalable and user-focused mobile solutions.
+➤ I’m a **Backend Developer** with hands-on experience in building high-performance, scalable server-side applications using **Node.js and Express.js**. Skilled in designing RESTful APIs, integrating databases, and delivering efficient, user-focused back-end solutions.
 
-• Experienced in **state management** solutions such as **Provider, Riverpod**, or **Bloc**, and building clean, maintainable architectures for complex applications.
+➤ Experienced in working with multiple database technologies, including **MongoDB** and **MySQL**, with strong proficiency in database design, querying, and performance optimization. Skilled in using **ORM/ODM** tools such as **Sequelize** and **Mongoose** to build efficient and maintainable back-end systems.
 
-• Strong understanding of **OOP principles, Clean Architecture**, and best practices for mobile app development. Experienced with **Git, REST API integration, Firebase services**, and working in **Agile environments** to deliver high-quality applications.
+➤ Experienced in implementing secure authentication and authorization, optimizing API performance, and writing unit and integration tests to ensure reliable back-end services. Adept at collaborating with front-end teams for seamless full-stack integration and deploying applications efficiently using CI/CD pipelines.
+
+➤ Strong understanding of OOP principles, Clean Architecture, and best practices for back-end development. Experienced with Git, CI/CD pipelines, and working in Agile environments to deliver high-quality, maintainable server-side applications.
 
 ---
 
@@ -29,16 +31,17 @@ Grade: **Good**
 
 ## 🚀 Technical Skills
 
-### 📱 Mobile App Development
-- ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
-- ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
-- ![BLoC](https://img.shields.io/badge/-BLoC-673AB7?logo=flutter&logoColor=white)
-- ![Hive](https://img.shields.io/badge/-Hive-FF6F00?logo=hive&logoColor=white)
-- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white)
-- ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
-- ![REST APIs](https://img.shields.io/badge/-REST%20APIs-007ACC?logo=webhooks&logoColor=white)
+### 🔧 Backend Development
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+- ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+- ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white)
+- ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white)
+- ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white)
 
-> My **Mobile App Development** experience allows me to build scalable mobile applications and integrate them seamlessly with backend APIs while delivering smooth and responsive user experiences.
+> My **Back-End Development** experience enables me to design and build high-performance, scalable server-side applications, implement robust APIs, manage databases efficiently, and ensure secure, reliable, and maintainable systems.
 
 ---
 
@@ -47,7 +50,6 @@ Grade: **Good**
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 - ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-- ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android&logoColor=white)
 
 ---
 
