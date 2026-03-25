@@ -9,9 +9,10 @@
 ---
 
 ## 👋 About Me
-➤ I’m a Backend Developer experienced in building scalable, high-performance server-side applications using Node.js and Express.js. Skilled in designing RESTful APIs, integrating databases like MongoDB and MySQL, and optimizing performance. Proficient with ORM/ODM tools such as Sequelize and Mongoose for building clean and maintainable systems.
+➤ I’m a **Backend Developer** experienced in building scalable, high-performance server-side applications using **Node.js** and **Express.js**. Skilled in designing RESTful APIs, integrating databases like **MongoDB** and **MySQL**, and optimizing performance. Proficient with **ORM/ODM** tools such as **Sequelize** and **Mongoose** for building clean and maintainable systems.
 
-➤ I have experience in implementing secure authentication and authorization, writing unit and integration tests, and ensuring reliable back-end services. I follow best practices like OOP and Clean Architecture, and work efficiently with Git, CI/CD pipelines, and Agile teams to deliver high-quality solutions.
+➤ I have experience in implementing secure **authentication** and **authorization**, writing **unit** and **integration tests**, and ensuring reliable back-end services. I follow best practices like **OOP** and **Clean Architecture**, and work efficiently with **Git, CI/CD pipelines**, and **Agile** teams to deliver high-quality solutions.
+
 ---
 
 ## 🎓 Education
