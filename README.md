@@ -4,7 +4,7 @@
 🌍 **Location:** Damietta, Egypt.  
 💼 **Role:** Backend Developer(Node.js)
 <br>
-🎯 **Specialization:** APIs • Databases • Authentication • Scalable Systems.
+🎯 **Specialization:** APIs • Databases • Microservices • Scalable Systems.
 
 ---
 
