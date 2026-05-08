@@ -7,7 +7,6 @@
 Faculty of Computers & AI, Damietta University <br>
 Grade: **Good**
 
---- 
 
 ## 🚀 Technical Skills
 
