@@ -4,8 +4,8 @@
 ---
 
 ## 🎓 Education
-**B.S. in Computer Science**  
-Damietta University <br>
+**B.S. in Information Systems**  
+Faculty of Computers & AI, Damietta University <br>
 Grade: **Good**
 
 --- 
