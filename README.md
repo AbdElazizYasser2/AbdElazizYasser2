@@ -1,6 +1,11 @@
 <h1 align="center">Hi, I'm Abdelaziz Yasser</h1>
 <h2 align="center">Backend Developer | Node.js (Express.js)</h2>
 
+<p align="center">
+  <a href="https://drive.google.com/file/d/1jg76VdVX__E3Wq3tAFeuj-OPekXmsAKq/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/My%20CV-005020?style=flat" style="height:35px; object-fit:contain;"/>
+  </a>
+</p>
 
 ## 🎓 Education
 **B.S. in Information Systems**  
