@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Abdelaziz Yasser</h1>
 <h2 align="center">Backend Developer | Node.js (Express.js)</h2>
 
----
 
 ## 🎓 Education
 **B.S. in Information Systems**  
