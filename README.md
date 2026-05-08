@@ -37,4 +37,14 @@ Grade: **Good**
 
 > **Focused on architecting scalable and high-performance server-side systems. I specialize in building robust APIs and managing complex databases, ensuring that every application is secure, efficient, and maintainable through Clean Architecture and SOLID principles.**
 
+## 🔗 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/AbdElazizYasser2">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:abdelazizyasser.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
