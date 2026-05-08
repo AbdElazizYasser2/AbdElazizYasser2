@@ -30,6 +30,6 @@ Grade: **Good**
 
 ##
 
-> Focused on architecting scalable and high-performance server-side systems. I specialize in building robust APIs and managing complex databases, ensuring that every application is secure, efficient, and maintainable through Clean Architecture and SOLID principles.
+> **Focused on architecting scalable and high-performance server-side systems. I specialize in building robust APIs and managing complex databases, ensuring that every application is secure, efficient, and maintainable through Clean Architecture and SOLID principles.**
 
 
