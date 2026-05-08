@@ -5,7 +5,7 @@
 
 ## 🎓 Education
 **B.S. in Computer Science**  
-Damietta University
+Damietta University <br>
 Grade: **Good**
 
 --- 
@@ -31,3 +31,7 @@ Grade: **Good**
 - ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 
 ---
+
+> Focused on architecting scalable and high-performance server-side systems. I specialize in building robust APIs and managing complex databases, ensuring that every application is secure, efficient, and maintainable through Clean Architecture and SOLID principles.
+
+--- 
