@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abdelaziz Yasser</h1>
-<h2 align="center">Backend Developer | Node.js (Express.js)</h2>
+<h2 align="center">Backend Developer | Node.js (Express.js & NestJS)</h2>
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1jg76VdVX__E3Wq3tAFeuj-OPekXmsAKq/view?usp=drive_link">
