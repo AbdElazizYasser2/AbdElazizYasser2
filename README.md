@@ -68,8 +68,6 @@
 <h3>Favorite Quote</h3>
 <p>"First, solve the problem. Then, write the code."</p>
 
-
-
 <h3> Tech Stack
 
 </h3>
