@@ -2,8 +2,9 @@
 
 <h2>Hi 👋, I'm Abdelaziz Yasser </h2>
 
- Backend Developer with hands-on experience in building high-performance, scalable server-side applications.
- Skilled in designing RESTful APIs, integrating databases, and delivering efficient, user-focused back-end solutions.
+ Backend Developer with hands-on experience in building high-performance, scalable server-side applications. <br>
+ Skilled in designing RESTful APIs, integrating databases, and delivering efficient, user-focused back-end solutions. <br>
+ Always eager to learn new technologies, improve software architecture, and build reliable systems that solve real-world problems.
 
 </p>
 
