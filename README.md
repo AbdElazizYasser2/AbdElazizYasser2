@@ -113,9 +113,7 @@
 
   <li><strong>Databases:</strong> PostgreSQL, MongoDB, Prisma ORM, Mongoose, Redis</li>
 
-  <li><strong>DevOps:</strong> Docker, Linux, CI/CD</li>
-
-  <li><strong>Tools:</strong> Git, GitHub, npm, Postman, VS Code</li>
+  <li><strong>DevOps & Tools:</strong> Git, GitHub, Docker, CI/CD, Postman, VS Code</li>
 </ul>
 
 <h3 align="center">Technologies & Tools</h3>
