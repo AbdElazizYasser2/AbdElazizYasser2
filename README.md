@@ -65,19 +65,8 @@
 
 </ul>
 
-<h3>📌 Featured Projects</h3>
-
-<ul>
-
-  <li>🚀 CI/CD Pipeline using GitHub Actions</li> 
-
-  <li>☁️ AWS Infrastructure Deployment</li>
-
-  <li>🐳 Dockerized Applications</li>
-
-  <li>⚙️ Linux Server Setup & Automation</li> 
-
-</ul>
+<h3>Favorite Quote</h3>
+<p>"First, solve the problem. Then, write the code."</p>
 
 
 
