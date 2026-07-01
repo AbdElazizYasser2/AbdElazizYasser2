@@ -51,21 +51,17 @@
 
 <ul>
 
-  <li>🚀 Cloud & DevOps Engineer focused on building scalable, production-ready systems.</li>
+  <li>Building scalable backend systems with Node.js and NestJS.</li>
 
-  <li>☁️ Hands-on experience with AWS, cloud infrastructure, and cloud-native technologies.</li>
+  <li>Designing efficient database schemas using PostgreSQL and MongoDB.</li>
 
-  <li>🐳 Skilled in Docker, Kubernetes, and CI/CD pipelines.</li>
+  <li>Writing clean, maintainable, and production-ready code.</li>
 
-  <li>⚙️ Strong background in Linux, servers, domain management, and system administration.</li>
+  <li>Improving my skills in Docker, AWS, and cloud deployment.</li>
 
-  <li>🛠️ Experience with automation, scripting, and Infrastructure as Code.</li>
+  <li>Continuously learning software architecture and backend best practices.</li>
 
-  <li>🎯 Focused on reliability, performance, and cost optimization.</li>
-
-  <li>🌍 Open to remote opportunities (worldwide).</li>
-
-  <li>💬 Let’s connect and build efficient, scalable systems.</li>
+  <li>Open to remote opportunities and exciting collaborations.</li>
 
 </ul>
 
