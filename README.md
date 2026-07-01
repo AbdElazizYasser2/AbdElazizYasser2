@@ -101,23 +101,22 @@
 
 
 
-<h3> 💻 Tech Stack
+<h3> Tech Stack
 
 </h3>
 
 <p>
 
 <ul>
+<li> Languages: TypeScript, JavaScript (ES6+), Python, SQL <br>
 
-<li>☁️ Cloud: AWS <br>
+<li> Back-End: Node.js, NestJS, Express.js, RESTful API <br>
+ 
+<li> Databases: PostgreSQL, MongoDB, Prisma ORM, Mongoose, Redis <br></li> 
 
-<li>🐳 DevOps: Docker, Kubernetes, CI/CD <br></li> 
+<li> DevOps: Docker, Linux, CI/CD <br></li> 
 
-<li>⚙️ Systems: Linux, Servers, Domains <br></li> 
-
-<li>🛠️ Tools: Git, Bash, Automation <br></li> 
-
-<li>🎨 Front-End: HTML, CSS, JavaScript</li> 
+<li> Tools: Git, GitHub, npm, Postman, VS Code <br></li> 
 
   </ul>
 
