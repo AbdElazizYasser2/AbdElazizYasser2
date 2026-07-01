@@ -108,19 +108,19 @@
 <p>
 
 <ul>
-<li> Languages: TypeScript, JavaScript (ES6+), Python, SQL <br>
+<li> **Languages:** TypeScript, JavaScript (ES6+), Python, SQL <br>
 
-<li> Back-End: Node.js, NestJS, Express.js, RESTful API <br>
+<li> **Backend:** Node.js, NestJS, Express.js, RESTful API <br>
  
-<li> Databases: PostgreSQL, MongoDB, Prisma ORM, Mongoose, Redis <br></li> 
+<li> **Databases:** PostgreSQL, MongoDB, Prisma ORM, Mongoose, Redis <br></li> 
 
-<li> DevOps: Docker, Linux, CI/CD <br></li> 
+<li> **DevOps:** Docker, Linux, CI/CD <br></li> 
 
-<li> Tools: Git, GitHub, npm, Postman, VS Code <br></li> 
+<li> **Tools:** Git, GitHub, npm, Postman, VS Code <br></li> 
 
   </ul>
 
-<h3 align="center">☁️ DevOps & Cloud</h3>
+<h3 align="center">Technologies & Tools</h3>
 
 <table align="center">
 
