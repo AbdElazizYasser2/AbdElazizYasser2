@@ -115,9 +115,7 @@
 
   <li><strong>DevOps:</strong> Docker, Linux, CI/CD</li>
 
-  <li><strong>Tools:</strong> Git, GitHub, npm, Postman, VS Code, Jira</li>
-
-  <li><strong>Cloud:</strong> AWS</li>
+  <li><strong>Tools:</strong> Git, GitHub, npm, Postman, VS Code</li>
 </ul>
 
 <h3 align="center">Technologies & Tools</h3>
