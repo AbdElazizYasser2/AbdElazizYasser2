@@ -48,7 +48,7 @@
 
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-
+## What I'm currently focused on
 <ul>
 
   <li>Building scalable backend systems with Node.js and NestJS.</li>
