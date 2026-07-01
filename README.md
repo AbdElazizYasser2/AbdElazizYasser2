@@ -66,7 +66,8 @@
 </ul>
 
 <h3>Favorite Quote</h3>
-<p>"First, solve the problem. Then, write the code."</p>
+<p>"Programs must be written for people to read, and only incidentally for machines to execute."</p>
+<p>— Harold Abelson</p>
 
 <h3> Tech Stack
 
