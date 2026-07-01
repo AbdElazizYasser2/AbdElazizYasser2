@@ -127,5 +127,5 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,nestjs,express,git,github,docker,aws,linux,redis&perline=14" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,nestjs,express,redis,postgresql,git,github,docker,aws,linux&perline=14" />
 </p>
