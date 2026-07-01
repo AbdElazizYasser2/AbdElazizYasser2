@@ -32,6 +32,7 @@
   <li>Building scalable backend systems with Node.js and NestJS.</li>
   <li>Designing efficient database schemas using PostgreSQL and MongoDB.</li>
   <li>Writing clean, maintainable, and production-ready code.</li>
+  <li>Passionate about learning Microservices Architecture and System Design</li>
   <li>Improving my skills in Docker, AWS, and cloud deployment.</li>
   <li>Continuously learning software architecture and backend best practices.</li>
   <li>Open to remote opportunities and exciting collaborations worldwide.</li>
