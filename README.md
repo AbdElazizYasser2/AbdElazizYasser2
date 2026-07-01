@@ -1,49 +1,131 @@
-<h1 align="center">Hi, I'm Abdelaziz Yasser</h1>
-<h2 align="center">Backend Developer | Node.js (Express.js & NestJS)</h2>
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1jg76VdVX__E3Wq3tAFeuj-OPekXmsAKq/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/My%20CV-005020?style=flat" style="height:35px; object-fit:contain;"/>
-  </a>
+
+<h2>Hi 👋, I'm Abdelaziz Yasser </h2>
+
+ Backend Developer with hands-on experience in building high-performance, scalable server-side applications.
+ Skilled in designing RESTful APIs, integrating databases, and delivering efficient, user-focused back-end solutions.
+
 </p>
 
-## 🎓 Education
-**B.S. in Information Systems**  
-Faculty of Computers & AI, Damietta University <br>
-Grade: **Good**
-##
 
-## 🚀 Technical Skills
 
-### 🔧 Backend Development
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-- ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-- ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-- ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white)
-- ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white)
-- ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white)
+## 🌐Socials
 
-##
 
-### ⚙️ DevOps & Tools
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-- ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 
-##
+<h3 align="center">📫 Contact Me</h3>
 
-> **Focused on architecting scalable and high-performance server-side systems. I specialize in building robust APIs and managing complex databases, ensuring that every application is secure, efficient, and maintainable through Clean Architecture and SOLID principles.**
 
-## 🔗 Connect With Me
-<p align="left">
-  <a href="mailto:abdelazizyasser.dev@gmail.com">
-    <img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" height="45"/>
-  </a> &nbsp;
+
+<p align="center">
+
+<a href="mailto:abdelazizyasser.dev@gmail.com">
+
+  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+</a>
+
+
+
+<a href="https://wa.me/201091471212" target="_blank">
+
+  <img src="https://img.shields.io/badge/WhatsApp%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+</a>
+
+
+
+
 
   <a href="https://www.linkedin.com/in/abdelaziz-yasser/">
-    <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="45"/>
+
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
   </a>
+
+</p>
+
+
+
+
+
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
+<ul>
+
+  <li>🚀 Cloud & DevOps Engineer focused on building scalable, production-ready systems.</li>
+
+  <li>☁️ Hands-on experience with AWS, cloud infrastructure, and cloud-native technologies.</li>
+
+  <li>🐳 Skilled in Docker, Kubernetes, and CI/CD pipelines.</li>
+
+  <li>⚙️ Strong background in Linux, servers, domain management, and system administration.</li>
+
+  <li>🛠️ Experience with automation, scripting, and Infrastructure as Code.</li>
+
+  <li>🎯 Focused on reliability, performance, and cost optimization.</li>
+
+  <li>🌍 Open to remote opportunities (worldwide).</li>
+
+  <li>💬 Let’s connect and build efficient, scalable systems.</li>
+
+</ul>
+
+
+
+
+
+<img align="right" 
+
+     alt="GIF" 
+
+     src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" 
+
+     width="360px"
+
+     />
+
+<h3>📌 Featured Projects</h3>
+
+<ul>
+
+  <li>🚀 CI/CD Pipeline using GitHub Actions</li> 
+
+  <li>☁️ AWS Infrastructure Deployment</li>
+
+  <li>🐳 Dockerized Applications</li>
+
+  <li>⚙️ Linux Server Setup & Automation</li> 
+
+</ul>
+
+
+
+<h3> 💻 Tech Stack
+
+</h3>
+
+<p>
+
+<ul>
+
+<li>☁️ Cloud: AWS <br>
+
+<li>🐳 DevOps: Docker, Kubernetes, CI/CD <br></li> 
+
+<li>⚙️ Systems: Linux, Servers, Domains <br></li> 
+
+<li>🛠️ Tools: Git, Bash, Automation <br></li> 
+
+<li>🎨 Front-End: HTML, CSS, JavaScript</li> 
+
+  </ul>
+
+<h3 align="center">☁️ DevOps & Cloud</h3>
+
+<table align="center">
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nestjs,python,git,github,docker,kubernetes,aws,terraform,jenkins,linux&perline=14" />
 </p>
