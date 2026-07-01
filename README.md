@@ -6,7 +6,7 @@
 
 </p>
 
-## Socials
+## 🌐Socials
 
 <h3 align="center">Contact Me</h3>
 
@@ -27,7 +27,7 @@
 </p>
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<h2>What I'm currently focused on</h2>
+<h2> 🎯What I'm currently focused on</h2>
 <ul>
   <li>Building scalable backend systems with Node.js and NestJS.</li>
   <li>Designing efficient database schemas using PostgreSQL and MongoDB.</li>
@@ -38,11 +38,11 @@
   <li>Open to remote opportunities and exciting collaborations worldwide.</li>
 </ul>
 
-<h3>Favorite Quote</h3>
+<h3> 📜Favorite Quote</h3>
 <p>"Programs must be written for people to read, and only incidentally for machines to execute."</p>
 <p>— Harold Abelson</p>
 
-<h3> Tech Stack
+<h3> 💻Tech Stack
 
 </h3>
 
