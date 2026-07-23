@@ -60,5 +60,5 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=php,js,ts,laravel,nodejs,express,redis,postgresql,prisma,mongodb,git,github,githubactions,graphql,docker,postman,npm,vscode,windows&perline=14" />
+<img src="https://skillicons.dev/icons?i=php,js,ts,laravel,nodejs,express,redis,mysql,postgresql,prisma,mongodb,git,github,docker,postman,vscode&perline=14" />
 </p>
