@@ -48,9 +48,9 @@
 
 <p>
 <ul>
-  <li><strong>Languages:</strong> TypeScript, JavaScript (ES6+), Python, SQL</li>
-  <li><strong>Backend:</strong> Node.js, NestJS, Express.js, RESTful APIs</li>
-  <li><strong>Databases:</strong> PostgreSQL, MongoDB, Prisma ORM, Mongoose, Redis</li>
+  <li><strong>Languages:</strong> PHP (8+), TypeScript, JavaScript (ES6+), C++, SQL</li>
+  <li><strong>Backend:</strong> Laravel, Node.js, Express.js, RESTful APIs</li>
+  <li><strong>Databases & ORMs:</strong> PostgreSQL, MongoDB, Redis, Eloquent ORM, Prisma ORM, Mongoose</li>
   <li><strong>DevOps & Tools:</strong> Git, GitHub, Docker, CI/CD, Postman, VS Code</li>
 </ul>
 
@@ -60,5 +60,5 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=php,js,ts,laravel,nodejs,express,redis,mysql,postgresql,prisma,mongodb,git,github,docker,postman,vscode&perline=14" />
+<img src="https://skillicons.dev/icons?i=php,js,ts,cpp,laravel,nodejs,express,redis,mysql,postgresql,prisma,mongodb,git,github,docker,postman,vscode&perline=14" />
 </p>
