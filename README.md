@@ -29,7 +29,7 @@
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2> 🎯What I'm currently focused on</h2>
 <ul>
-  <li>Building scalable backend systems with Node.js and NestJS.</li>
+  <li>Building scalable backend systems with Laravel and Node.js</li>
   <li>Designing efficient database schemas using PostgreSQL and MongoDB.</li>
   <li>Writing clean, maintainable, and production-ready code.</li>
   <li>Passionate about learning Microservices Architecture and System Design</li>
