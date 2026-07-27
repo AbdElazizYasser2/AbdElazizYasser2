@@ -54,27 +54,27 @@
   <li><strong>DevOps & Tools:</strong> Git, GitHub, Docker, CI/CD, Postman, VS Code</li>
 </ul>
 
-<h3 align="right">Languages</h3>
+<h3 align="left">Languages</h3>
 
-<p align="right">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=php,js,ts,python,sql&perline=14" />
 </p>
 
-<h3 align="right">Databases & ORMs</h3>
+<h3 align="left">Databases & ORMs</h3>
 
-<p align="right">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,prisma&perline=14" />
 </p>
 
-<h3 align="right">Frameworks</h3>
+<h3 align="left">Frameworks</h3>
 
-<p align="right">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=laravel,nodejs,express&perline=14" />
 </p>
 
-<h3 align="right">DevOps & Tools</h3>
+<h3 align="left">DevOps & Tools</h3>
 
-<p align="right">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,postman,vscode&perline=14" />
 </p>
 </p>
