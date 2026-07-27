@@ -56,7 +56,7 @@
 
 <h3 align="center">Languages</h3>
 
-<table align="center">
+<table align="right">
 
 <p align="center">
 
@@ -68,7 +68,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,prisma,eloquent&perline=14" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,prisma&perline=14" />
 
 <h3 align="center">Frameworks</h3>
 
