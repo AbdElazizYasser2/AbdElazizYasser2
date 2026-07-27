@@ -68,7 +68,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,prisma,mongodb,redis&perline=14" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,prisma,eloquent&perline=14" />
 
 <h3 align="center">Frameworks</h3>
 
