@@ -54,36 +54,27 @@
   <li><strong>DevOps & Tools:</strong> Git, GitHub, Docker, CI/CD, Postman, VS Code</li>
 </ul>
 
-<h3 align="center">Languages</h3>
+<h3 align="right">Languages</h3>
 
-<table align="right">
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=php,js,ts,python,sql&perline=14" />
+</p>
 
-<p align="center">
+<h3 align="right">Databases & ORMs</h3>
 
-<img src="https://skillicons.dev/icons?i=php,js,ts,python,sql&perline=14" />
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,prisma&perline=14" />
+</p>
 
-<h3 align="center">Databases & ORMs</h3>
+<h3 align="right">Frameworks</h3>
 
-<table align="center">
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express&perline=14" />
+</p>
 
-<p align="center">
+<h3 align="right">DevOps & Tools</h3>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,prisma&perline=14" />
-
-<h3 align="center">Frameworks</h3>
-
-<table align="center">
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express&perline=14" />
-
-<h3 align="center">DevOps & Tools</h3>
-
-<table align="center">
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode&perline=14" />
-
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,postman,vscode&perline=14" />
+</p>
 </p>
