@@ -61,4 +61,13 @@
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=php,js,ts,cpp,laravel,nodejs,express,redis,mysql,postgresql,prisma,mongodb,git,github,docker,postman,vscode&perline=14" />
+
+<h3 align="center">Technologies & Tools</h3>
+
+<table align="center">
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=php,js,ts,cpp,laravel,nodejs,express,redis,mysql,postgresql,prisma,mongodb,git,github,docker,postman,vscode&perline=14" />
+
 </p>
