@@ -55,7 +55,7 @@
 <h3 align="left">Frameworks</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express&perline=14" />
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,tailwind&perline=14" />
 </p>
 
 <h3 align="left">DevOps & Tools</h3>
