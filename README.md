@@ -42,18 +42,6 @@
 <p>"Programs must be written for people to read, and only incidentally for machines to execute."</p>
 <p>— Harold Abelson</p>
 
-<h3> 💻Tech Stack
-
-</h3>
-
-<p>
-<ul>
-  <li><strong>Languages:</strong> PHP (8+), TypeScript, JavaScript (ES6+), C++, SQL</li>
-  <li><strong>Backend:</strong> Laravel, Node.js, Express.js, RESTful APIs</li>
-  <li><strong>Databases & ORMs:</strong> PostgreSQL, MongoDB, Redis, Eloquent ORM, Prisma ORM, Mongoose</li>
-  <li><strong>DevOps & Tools:</strong> Git, GitHub, Docker, CI/CD, Postman, VS Code</li>
-</ul>
-
 <h3 align="left">Languages</h3>
 
 <p align="left">
