@@ -61,23 +61,23 @@ Always eager to learn new technologies, improve software architecture, and build
 ## 💻 Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=php,js,ts,python,sql&theme=light"/>
+<img src="https://skillicons.dev/icons?i=php,js,ts,python,sql"/>
 </p>
 
 ## 🗄️ Databases & ORMs
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,prisma&theme=light"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,prisma"/>
 </p>
 
 ## ⚙️ Frameworks
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,tailwind&theme=light"/>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,tailwind"/>
 </p>
 
 ## 🛠️ DevOps & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,postman,vscode&theme=light"/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,postman,vscode"/>
 </p>
