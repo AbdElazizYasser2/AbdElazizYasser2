@@ -61,7 +61,7 @@ Always eager to learn new technologies, improve software architecture, and build
 ## 💻 Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=php,js,ts,python,sql"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,sql"/>
 </p>
 
 ## 🗄️ Databases & ORMs
@@ -73,7 +73,7 @@ Always eager to learn new technologies, improve software architecture, and build
 ## ⚙️ Frameworks
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,tailwind"/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,tailwind"/>
 </p>
 
 ## 🛠️ DevOps & Tools
