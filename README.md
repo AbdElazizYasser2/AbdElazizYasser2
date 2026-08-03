@@ -32,7 +32,7 @@ Always eager to learn new technologies, improve software architecture, and build
 
 ## 🎯 What I'm currently focused on
 
-- Building scalable backend systems with **Laravel** and **Node.js**
+- Building scalable backend systems with **Node.js** and **NestJS**
 - Designing efficient database schemas using **PostgreSQL** and **MongoDB**
 - Writing clean, maintainable, and production-ready code
 - Learning **Microservices Architecture** and **System Design**
