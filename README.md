@@ -73,7 +73,7 @@ Always eager to learn new technologies, improve software architecture, and build
 ## ⚙️ Frameworks
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,tailwind"/>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,tailwind"/>
 </p>
 
 ## 🛠️ DevOps & Tools
