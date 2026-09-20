@@ -79,5 +79,5 @@ Always eager to learn new technologies, improve software architecture, and build
 ## 🛠️ DevOps & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,nginx,postman,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,rabbitmq,kubernetes,nginx,postman,vscode"/>
 </p>
