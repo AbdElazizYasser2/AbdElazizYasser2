@@ -18,7 +18,7 @@ Passionate about clean architecture, system design, and building reliable backen
       alt="Gmail"
     />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.linkedin.com/in/abdelaziz-yasser/">
     <img
       src="https://skillicons.dev/icons?i=linkedin"
@@ -26,7 +26,7 @@ Passionate about clean architecture, system design, and building reliable backen
       alt="LinkedIn"
     />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://wa.me/201091471212">
     <img
       src="https://cdn.simpleicons.org/whatsapp/25D366"
@@ -85,11 +85,13 @@ Passionate about clean architecture, system design, and building reliable backen
     alt="JavaScript"
     width="48"
   />
+  &nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
     alt="TypeScript"
     width="48"
   />
+  &nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
     alt="Python"
@@ -105,11 +107,13 @@ Passionate about clean architecture, system design, and building reliable backen
     alt="Node.js"
     width="48"
   />
+  &nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"
     alt="NestJS"
     width="48"
   />
+  &nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
     alt="Express.js"
@@ -125,19 +129,32 @@ Passionate about clean architecture, system design, and building reliable backen
     alt="PostgreSQL"
     width="48"
   />
+  &nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
     alt="MongoDB"
     width="48"
   />
+  &nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
     alt="Redis"
     width="48"
   />
+  &nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg"
     alt="Prisma"
+    width="48"
+  />
+</p>
+
+## 📨 Messaging & Infrastructure
+
+<p align="left">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg"
+    alt="RabbitMQ"
     width="48"
   />
 </p>
@@ -150,31 +167,43 @@ Passionate about clean architecture, system design, and building reliable backen
     alt="Git"
     width="48"
   />
+  &nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
     alt="GitHub"
     width="48"
   />
+  &nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
     alt="Docker"
     width="48"
   />
+  &nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg"
+    alt="Kubernetes"
+    width="48"
+  />
+  &nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
     alt="Nginx"
     width="48"
   />
+  &nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
     alt="npm"
     width="48"
   />
+  &nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"
     alt="Postman"
     width="48"
   />
+  &nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg"
     alt="Swagger"
@@ -196,5 +225,6 @@ Passionate about clean architecture, system design, and building reliable backen
 - SOLID Principles
 - Microservices
 - Caching with Redis
+- Message Queues with RabbitMQ
 - Docker & Containerization
 - CI/CD
