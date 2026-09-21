@@ -1,4 +1,3 @@
-```html
 <h1 align="center">Hi 👋, I'm Abdelaziz Yasser</h1>
 
 <p align="center">
@@ -199,4 +198,3 @@ Passionate about clean architecture, system design, and building reliable backen
 - Caching with Redis
 - Docker & Containerization
 - CI/CD
-```
