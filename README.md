@@ -83,19 +83,19 @@ Passionate about clean architecture, system design, and building reliable backen
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
     alt="JavaScript"
-    width="48"
+    width="44"
   />
   &nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
     alt="TypeScript"
-    width="48"
+    width="44"
   />
   &nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
     alt="Python"
-    width="48"
+    width="44"
   />
 </p>
 
@@ -105,19 +105,19 @@ Passionate about clean architecture, system design, and building reliable backen
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
     alt="Node.js"
-    width="48"
+    width="44"
   />
   &nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"
     alt="NestJS"
-    width="48"
+    width="44"
   />
   &nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
     alt="Express.js"
-    width="48"
+    width="44"
   />
 </p>
 
@@ -127,35 +127,25 @@ Passionate about clean architecture, system design, and building reliable backen
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
     alt="PostgreSQL"
-    width="48"
+    width="44"
   />
   &nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
     alt="MongoDB"
-    width="48"
+    width="44"
   />
   &nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
     alt="Redis"
-    width="48"
+    width="44"
   />
   &nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg"
     alt="Prisma"
-    width="48"
-  />
-</p>
-
-## 📨 Messaging & Infrastructure
-
-<p align="left">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg"
-    alt="RabbitMQ"
-    width="48"
+    width="44"
   />
 </p>
 
@@ -165,49 +155,43 @@ Passionate about clean architecture, system design, and building reliable backen
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
     alt="Git"
-    width="48"
+    width="44"
   />
   &nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
     alt="GitHub"
-    width="48"
+    width="44"
   />
   &nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
     alt="Docker"
-    width="48"
-  />
-  &nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg"
-    alt="Kubernetes"
-    width="48"
+    width="44"
   />
   &nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
     alt="Nginx"
-    width="48"
+    width="44"
   />
   &nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
     alt="npm"
-    width="48"
+    width="44"
   />
   &nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"
     alt="Postman"
-    width="48"
+    width="44"
   />
   &nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg"
     alt="Swagger"
-    width="48"
+    width="44"
   />
 </p>
 
