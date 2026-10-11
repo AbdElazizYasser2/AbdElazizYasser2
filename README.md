@@ -193,12 +193,6 @@ Passionate about clean architecture, system design, and building reliable backen
     alt="Swagger"
     width="44"
   />
-  &nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typeorm/typeorm-original.svg"
-    alt="TypeORM"
-    width="44"
-  />
 </p>
 
 ---
