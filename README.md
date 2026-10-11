@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdelaziz Yasser</h1>
+ <h1 align="center">Hi 👋, I'm Abdelaziz Yasser</h1>
 
 <p align="center">
 Backend Developer focused on building scalable, secure, and maintainable server-side applications.<br>
@@ -191,6 +191,12 @@ Passionate about clean architecture, system design, and building reliable backen
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg"
     alt="Swagger"
+    width="44"
+  />
+  &nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typeorm/typeorm-original.svg"
+    alt="TypeORM"
     width="44"
   />
 </p>
