@@ -13,11 +13,9 @@
 <br/>
 
 <div align="center">
-
   <img src="https://img.shields.io/badge/BACKEND-DEVELOPER-0969DA?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-2DA44E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NESTJS-TYPESCRIPT-EA234F?style=for-the-badge" />
-
 </div>
 
 <br/>
@@ -30,12 +28,12 @@
 </p>
 
 <ul>
-  <li>- Focused on <strong>Node.js, NestJS, and TypeScript.</strong></li>
-  <li>- Interested in software architecture, clean code, and backend system design.</li>
-  <li>- Experienced in working with relational and NoSQL databases.</li>
-  <li>- Continuously improving my knowledge of authentication, API security, and performance optimization.</li>
-  <li>- Interested in writing reliable, testable code and following software engineering best practices.</li>
-  <li>- Always learning, building projects, and exploring new technologies to grow as a software engineer.</li>
+  <li>Focused on <strong>Node.js, NestJS, and TypeScript.</strong></li>
+  <li>Interested in software architecture, clean code, and backend system design.</li>
+  <li>Experienced in working with relational and NoSQL databases.</li>
+  <li>Continuously improving my knowledge of authentication, API security, and performance optimization.</li>
+  <li>Interested in writing reliable, testable code and following software engineering best practices.</li>
+  <li>Always learning, building projects, and exploring new technologies to grow as a software engineer.</li>
 </ul>
 
 <br/>
@@ -50,7 +48,7 @@
 
 <br/>
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,postgres,mongodb,redis,prisma,docker,git,github,nginx" />
@@ -58,7 +56,7 @@
 
 <br/>
 
-<h2 align="center">What I Do</h2>
+<h2 align="center">🚀 What I Do</h2>
 
 <table align="center">
   <tr>
@@ -79,7 +77,7 @@
 
 <br/>
 
-<h2 align="center">Let's Connect</h2>
+<h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
 
