@@ -1,9 +1,3 @@
-<h1 align="center">
-  👨‍💻 Abdelaziz Yasser | Backend Developer
-</h1>
-
-<br/>
- 
 <div align="center">
   <img
     src="https://raw.githubusercontent.com/AbdElazizYasser2/AbdElazizYasser2/main/IMG_6760.PNG"
@@ -28,26 +22,38 @@
 
 <br/>
 
-<h2 align="center">About Me</h2>
+<h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  Backend Developer passionate about designing scalable backend systems
-  and building secure, reliable REST APIs.
+  I'm a Backend Developer passionate about building
+  <strong>scalable, secure, and maintainable server-side applications.</strong>
 </p>
 
-<p align="center">
-  I specialize in <b>Node.js, NestJS, TypeScript, and PostgreSQL</b>,
-  following clean code principles and software engineering best practices.
-</p>
+<ul>
+  <li>- Focused on <strong>Node.js, NestJS, and TypeScript.</strong></li>
+  <li>- Interested in software architecture, clean code, and backend system design.</li>
+  <li>- Experienced in working with relational and NoSQL databases.</li>
+  <li>- Continuously improving my knowledge of authentication, API security, and performance optimization.</li>
+  <li>- Interested in writing reliable, testable code and following software engineering best practices.</li>
+  <li>- Always learning, building projects, and exploring new technologies to grow as a software engineer.</li>
+</ul>
+
+<br/>
+
+<div align="center">
+  <strong>🎯 My Goal</strong>
+  <p>
+    To build reliable backend systems that solve real-world problems
+    and deliver meaningful value.
+  </p>
+</div>
 
 <br/>
 
 <h2 align="center">Tech Stack</h2>
 
 <div align="center">
-
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,postgres,mongodb,redis,prisma,docker,git,github,nginx" />
-
 </div>
 
 <br/>
