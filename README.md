@@ -1,4 +1,9 @@
+<h1 align="center">
+  👨‍💻 Abdelaziz Yasser | Backend Developer
+</h1>
 
+<br/>
+ 
 <div align="center">
   <img
     src="https://raw.githubusercontent.com/AbdElazizYasser2/AbdElazizYasser2/main/IMG_6760.PNG"
@@ -6,6 +11,12 @@
     alt="Abdelaziz Yasser - Backend Developer"
   />
 </div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abdelaziz+Yasser;Backend+Developer;NestJS+%7C+TypeScript" alt="Typing SVG" />
+</div>
+
+<br/>
 
 <div align="center">
 
